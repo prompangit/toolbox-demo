@@ -2998,756 +2998,756 @@
 7,"Brosme_brosme-21",600051,2017,2617.13072981701,0.44590926715777,0,NA
 7,"Cyclopterus_lumpus-21",600062,2017,336.21905461113,0.456033721948091,0,NA
 7,"Gadus_morhua-21",600069,2017,251267.567513427,0.0734120726077067,0,NA
-7,"Caranx_hippos-21",600071,2017,0.0005577368,0.5018951,1,"Median gapfilled"
-7,"Helicolenus_dactylopterus-21",600076,2017,0.002610828,0.5018951,1,"Median gapfilled"
-7,"Istiophorus_albicans-21",600078,2017,17.9979,0.015,0,NA
-7,"Lamna_nasus-21",600088,2017,554.3265,0.3166408,0,NA
-7,"Cetorhinus_maximus-21",600090,2017,1.456498,0.5018951,1,"Median gapfilled"
-7,"Auxis_thazard-21",600094,2017,0.01186985,0.5018951,1,"Median gapfilled"
-7,"Katsuwonus_pelamis-21",600107,2017,4.253181,0.88,0,NA
-7,"Sarda_sarda-21",600115,2017,20.55302,0.5018951,1,"Median gapfilled"
-7,"Scomber_scombrus-21",600118,2017,32973.46,0.5018951,1,"Median gapfilled"
-7,"Somniosus_microcephalus-21",600138,2017,0.2108001,0.5018951,1,"Median gapfilled"
-7,"Squalus_acanthias-21",600139,2017,1338.219,1,0,NA
-7,"Thunnus_albacares-21",600143,2017,288.7238,0.6541818,0,NA
-7,"Thunnus_atlanticus-21",600144,2017,20.20111,0.5018951,1,"Median gapfilled"
-7,"Thunnus_obesus-21",600146,2017,105.1919,0.9678788,0,NA
-7,"Thunnus_thynnus-21",600147,2017,600.0383,0.4631772,0,NA
-7,"Ocyurus_chrysurus-21",600188,2017,6.31755e-08,0.5018951,1,"Median gapfilled"
-7,"Makaira_nigricans-21",600216,2017,1.353607,0.4994545,0,NA
-7,"Kajikia_albida-21",600219,2017,2.393925,0.4313939,0,NA
-7,"Tetrapturus_pfluegeri-21",600220,2017,0.0002232789,0.5018951,1,"Median gapfilled"
-7,"Xiphias_gladius-21",600226,2017,1238.494,0.9187343,0,NA
-7,"Alepocephalus_bairdii-21",600230,2017,5.520094,0.5018951,1,"Median gapfilled"
-7,"Salmo_salar-21",600236,2017,6038.666,0.5018951,1,"Median gapfilled"
-7,"Salvelinus_alpinus_alpinus-21",600247,2017,275.9806,0.5018951,1,"Median gapfilled"
-7,"Mallotus_villosus-21",600252,2017,48021.09,0.5018951,1,"Median gapfilled"
-7,"Osmerus_mordax_mordax-21",600253,2017,1086.465,0.5018951,1,"Median gapfilled"
-7,"Anguilla_rostrata-21",600296,2017,539.0883,0.4726044,0,NA
-7,"Gadus_ogac-21",600309,2017,141.0716,0.5018951,1,"Median gapfilled"
-7,"Urophycis_chuss-21",600312,2017,673.7264,0.5018951,1,"Median gapfilled"
-7,"Urophycis_tenuis-21",600313,2017,9951.462,0.7645903,0,NA
-7,"Microgadus_tomcod-21",600316,2017,62.2544,0.5018951,1,"Median gapfilled"
-7,"Merluccius_bilinearis-21",600323,2017,28037.4,0.2877119,0,NA
-7,"Macrourus_berglax-21",600331,2017,1418.799,0.3246663,0,NA
-7,"Coryphaenoides_rupestris-21",600332,2017,1357.669,0.3873215,0,NA
-7,"Zenopsis_conchifer-21",600336,2017,0.9151161,0.5018951,1,"Median gapfilled"
-7,"Menidia_menidia-21",600339,2017,241.9128,0.5018951,1,"Median gapfilled"
-7,"Polyprion_americanus-21",600349,2017,0.5782866,0.5018951,1,"Median gapfilled"
-7,"Morone_saxatilis-21",600353,2017,1250.765,1,0,NA
-7,"Morone_americana-21",600355,2017,1.634912,0.9490393,0,NA
-7,"Centropristis_striata-21",600361,2017,0.01436386,0.5018951,1,"Median gapfilled"
-7,"Lopholatilus_chamaeleonticeps-21",600362,2017,21.88127,0.5015092,0,NA
-7,"Pomatomus_saltatrix-21",600364,2017,11.1894,0.8767842,0,NA
-7,"Trachurus_lathami-21",600369,2017,0.0001928429,0.5018951,1,"Median gapfilled"
-7,"Selar_crumenophthalmus-21",600387,2017,2.483139e-05,0.5018951,1,"Median gapfilled"
-7,"Cynoscion_regalis-21",600406,2017,1.233966,0.015,0,NA
-7,"Pogonias_cromis-21",600425,2017,0.3134913,0.5018951,1,"Median gapfilled"
-7,"Archosargus_probatocephalus-21",600441,2017,0.06653359,0.5018951,1,"Median gapfilled"
-7,"Stenotomus_chrysops-21",600452,2017,14.8315,0.9675739,0,NA
-7,"Tautoga_onitis-21",600458,2017,0.02299448,0.4569505,0,NA
-7,"Zoarces_americanus-21",600480,2017,377.0384,0.4401508,0,NA
-7,"Peprilus_triacanthus-21",600492,2017,182.3378,0.8403882,0,NA
-7,"Sebastes_norvegicus-21",600501,2017,430.6169,0.5018951,1,"Median gapfilled"
-7,"Sebastes_mentella-21",600505,2017,1126.988,0.4034263,0,NA
-7,"Reinhardtius_hippoglossoides-21",600516,2017,31386.32,0.9700591,0,NA
-7,"Limanda_ferruginea-21",600521,2017,11632.63,0.6450005,0,NA
-7,"Pseudopleuronectes_americanus-21",600524,2017,2742.791,0.493472,0,NA
-7,"Scophthalmus_aquosus-21",600530,2017,9.4201,0.015,0,NA
-7,"Lophius_americanus-21",600532,2017,1567.052,0.4085584,0,NA
-7,"Aphanopus_carbo-21",600646,2017,8.589966,0.5018951,1,"Median gapfilled"
-7,"Centroscyllium_fabricii-21",600656,2017,822.8048,0.5018951,1,"Median gapfilled"
-7,"Centroscymnus_coelolepis-21",600662,2017,0.6985358,0.5018951,1,"Median gapfilled"
-7,"Carcharias_taurus-21",600747,2017,0.08642643,0.5018951,1,"Median gapfilled"
-7,"Carcharodon_carcharias-21",600751,2017,0.01295173,0.5018951,1,"Median gapfilled"
-7,"Isurus_oxyrinchus-21",600752,2017,139.3498,0.5018951,1,"Median gapfilled"
-7,"Isurus_paucus-21",600753,2017,0.9021456,0.5018951,1,"Median gapfilled"
-7,"Mugil_cephalus-21",600785,2017,0.3815914,0.5018951,1,"Median gapfilled"
-7,"Carcharhinus_longimanus-21",600875,2017,0.2395417,0.5018951,1,"Median gapfilled"
-7,"Carcharhinus_obscurus-21",600878,2017,0.01748698,0.5018951,1,"Median gapfilled"
-7,"Carcharhinus_plumbeus-21",600880,2017,0.1326008,0.5018951,1,"Median gapfilled"
-7,"Galeocerdo_cuvier-21",600886,2017,0.5261602,0.5018951,1,"Median gapfilled"
-7,"Prionace_glauca-21",600898,2017,1781.033,1,0,NA
-7,"Rhizoprionodon_terraenovae-21",600905,2017,0.0001282149,0.5018951,1,"Median gapfilled"
-7,"Sphyrna_lewini-21",600912,2017,0.515401,0.5018951,1,"Median gapfilled"
-7,"Sphyrna_mokarran-21",600914,2017,9.497498e-05,0.5018951,1,"Median gapfilled"
-7,"Sphyrna_zygaena-21",600917,2017,0.03431963,0.5018951,1,"Median gapfilled"
-7,"Naucrates_ductor-21",600998,2017,0.0005699208,0.5018951,1,"Median gapfilled"
-7,"Selene_vomer-21",601004,2017,5.628465e-05,0.5018951,1,"Median gapfilled"
-7,"Seriola_dumerili-21",601005,2017,0.3312288,0.5018951,1,"Median gapfilled"
-7,"Ruvettus_pretiosus-21",601044,2017,0.9901424,0.5018951,1,"Median gapfilled"
-7,"Lampris_guttatus-21",601072,2017,0.001052928,0.5018951,1,"Median gapfilled"
-7,"Lophius_gastrophysus-21",601078,2017,0.0004463935,0.5018951,1,"Median gapfilled"
-7,"Megalops_atlanticus-21",601079,2017,0.0006660785,0.5018951,1,"Median gapfilled"
-7,"Scomberesox_saurus_saurus-21",601084,2017,5.915505e-06,0.5018951,1,"Median gapfilled"
-7,"Anchoa_hepsetus-21",601133,2017,2.23443e-10,0.5018951,1,"Median gapfilled"
-7,"Sphoeroides_maculatus-21",601181,2017,0.003498858,0.5018951,1,"Median gapfilled"
-7,"Sciaenops_ocellatus-21",601191,2017,0.001080679,0.5018951,1,"Median gapfilled"
-7,"Mycteroperca_phenax-21",601213,2017,0.004032189,0.5018951,1,"Median gapfilled"
-7,"Calamus_bajonado-21",601221,2017,0.01440051,0.5018951,1,"Median gapfilled"
-7,"Sphyraena_barracuda-21",601235,2017,41.54453,0.5018951,1,"Median gapfilled"
-7,"Sphyraena_guachancho-21",601236,2017,3.818156e-07,0.5018951,1,"Median gapfilled"
-7,"Trichiurus_lepturus-21",601288,2017,0.002208298,0.5018951,1,"Median gapfilled"
-7,"Paralichthys_dentatus-21",601338,2017,12.6938,0.8613527,0,NA
-7,"Pollachius_virens-21",601343,2017,21187.77,0.25,0,NA
-7,"Hippoglossus_hippoglossus-21",601371,2017,3309.514,0.03866618,0,NA
-7,"Melanogrammus_aeglefinus-21",601381,2017,26464.36,0.015,0,NA
-7,"Molva_dypterygia-21",601383,2017,0.09793955,0.5018951,1,"Median gapfilled"
-7,"Lutjanus_campechanus-21",601423,2017,2.035211e-05,0.5018951,1,"Median gapfilled"
-7,"Etrumeus_sadina-21",601455,2017,8.381719e-05,0.5018951,1,"Median gapfilled"
-7,"Alosa_aestivalis-21",601574,2017,2.247634,0.5018951,1,"Median gapfilled"
-7,"Alosa_mediocris-21",601582,2017,0.04299373,0.5018951,1,"Median gapfilled"
-7,"Alosa_pseudoharengus-21",601583,2017,6101.223,0.5018951,1,"Median gapfilled"
-7,"Alosa_sapidissima-21",601584,2017,77.48417,0.4090138,0,NA
-7,"Brevoortia_tyrannus-21",601592,2017,0.7934119,0.5018951,1,"Median gapfilled"
-7,"Dorosoma_cepedianum-21",601604,2017,0.1950358,0.5018951,1,"Median gapfilled"
-7,"Enchelyopus_cimbrius-21",601874,2017,5.0389,0.5018951,1,"Median gapfilled"
-7,"Caranx_crysos-21",601933,2017,0.001128689,0.5018951,1,"Median gapfilled"
-7,"Antimora_rostrata-21",602005,2017,3.992168,0.5018951,1,"Median gapfilled"
-7,"Anarhichas_lupus-21",602501,2017,430.0839,0.3906003,0,NA
-7,"Petromyzon_marinus-21",602530,2017,3.861046e-05,0.5018951,1,"Median gapfilled"
-7,"Ginglymostoma_cirratum-21",602532,2017,3.738353e-05,0.5018951,1,"Median gapfilled"
-7,"Alopias_superciliosus-21",602534,2017,0.0006496299,0.5018951,1,"Median gapfilled"
-7,"Alopias_vulpinus-21",602535,2017,0.3764419,0.5018951,1,"Median gapfilled"
-7,"Leucoraja_erinacea-21",602557,2017,398.3856,0.5018951,1,"Median gapfilled"
-7,"Dipturus_laevis-21",602561,2017,0.005767878,0.5018951,1,"Median gapfilled"
-7,"Dasyatis_centroura-21",602572,2017,0.001030179,0.5018951,1,"Median gapfilled"
-7,"Tautogolabrus_adspersus-21",603672,2017,313.0117,0.5018951,1,"Median gapfilled"
-7,"Anarhichas_denticulatus-21",603810,2017,16.47923,0.5018951,1,"Median gapfilled"
-7,"Anarhichas_minor-21",603811,2017,3.638901,0.5018951,1,"Median gapfilled"
-7,"Hippoglossoides_platessoides-21",604239,2017,35165.53,0.9527156,0,NA
-7,"Hoplostethus_mediterraneus_mediterraneus-21",604964,2017,0.1391242,0.5018951,1,"Median gapfilled"
-7,"Balistes_capriscus-21",607327,2017,0.05639324,0.5018951,1,"Median gapfilled"
-7,"Gaidropsarus_ensis-21",608425,2017,6.202012,0.5018951,1,"Median gapfilled"
-7,"Pandalus_montagui-21",690003,2017,203.5906,0.5018951,1,"Median gapfilled"
-7,"Crassostrea_virginica-21",690009,2017,2402.634,0.5018951,1,"Median gapfilled"
-7,"Homarus_americanus-21",690010,2017,53592.68,0.8107143,0,NA
-7,"Placopecten_magellanicus-21",690011,2017,63415.36,0.8832568,0,NA
-7,"Ensis_directus-21",690029,2017,0.5728288,0.5018951,1,"Median gapfilled"
-7,"Argopecten_irradians-21",690030,2017,16.05354,0.5018951,1,"Median gapfilled"
-7,"Cancer_irroratus-21",690031,2017,4452.209,0.8827935,0,NA
-7,"Spisula_solidissima-21",690033,2017,1027.188,0.8621372,0,NA
-7,"Callinectes_sapidus-21",690052,2017,102.6493,0.5543956,0,NA
-7,"Carcinus_maenas-21",690158,2017,0.1887665,0.5018951,1,"Median gapfilled"
-7,"Chlamys_islandica-21",690185,2017,2383.069,0.3228091,0,NA
-7,"Cancer_borealis-21",690203,2017,36.28455,0.9478795,0,NA
-7,"Doryteuthis_pealeii-21",690227,2017,58.67699,1,0,NA
-7,"Pandalus_borealis-21",690269,2017,83082.29,0.9231208,0,NA
-7,"Mercenaria_mercenaria-21",690270,2017,1156.061,0.5018951,1,"Median gapfilled"
-7,"Illex_illecebrosus-21",690271,2017,4361.512,0.4849928,0,NA
-7,"Arctica_islandica-21",690275,2017,528.394,0.5018951,1,"Median gapfilled"
-7,"Chionoecetes_opilio-21",690313,2017,67288.14,0.9759119,0,NA
-7,"Mactromeris_polynyma-21",690398,2017,20948.62,0.5018951,1,"Median gapfilled"
-7,"Buccinum_undatum-21",690434,2017,481.7819,0.5018951,1,"Median gapfilled"
-7,"Strongylocentrotus_droebachiensis-21",690494,2017,1577.227,0.9220894,0,NA
-7,"Marine_fishes_not_identified-67",100039,2017,135699.3,0.05018951,1,"Median gapfilled"
-7,"Miscellaneous_marine_crustaceans-67",100047,2017,0.205673,0.05018951,1,"Median gapfilled"
-7,"Miscellaneous_aquatic_invertebrates-67",100077,2017,112.828,0.05018951,1,"Median gapfilled"
-7,"Marine_finfishes_not_identified-67",100139,2017,1.046608,0.05018951,1,"Median gapfilled"
-7,"Marine_groundfishes_not_identified-67",100239,2017,13488.76,0.05018951,1,"Median gapfilled"
-7,"Marine_pelagic_fishes_not_identified-67",100339,2017,9.164755,0.05018951,1,"Median gapfilled"
-7,"Mollusca-67",190195,2017,1540.622,0.05018951,1,"Median gapfilled"
-7,"Elasmobranchii-67",200004,2017,0.2632302,0.1254738,1,"Median gapfilled"
-7,"Chondrichthyes-67",200538,2017,0.0110195,0.1254738,1,"Median gapfilled"
-7,"Cephalopoda-67",290002,2017,0.08995068,0.1254738,1,"Median gapfilled"
-7,"Bivalvia-67",290004,2017,1011.588,0.1254738,1,"Median gapfilled"
-7,"Scyphozoa-67",290013,2017,0.1726995,0.1254738,1,"Median gapfilled"
-7,"Malacostraca-67",290022,2017,7.789421,0.1254738,1,"Median gapfilled"
-7,"Rajiformes-67",300014,2017,6.578262,0.2509476,1,"Median gapfilled"
-7,"Clupeiformes-67",300028,2017,0.003986093,0.2509476,1,"Median gapfilled"
-7,"Gadiformes-67",300044,2017,0.565117,0.2509476,1,"Median gapfilled"
-7,"Scorpaeniformes-67",300059,2017,0.2291242,0.2509476,1,"Median gapfilled"
-7,"Perciformes-67",300060,2017,0.05157614,0.2509476,1,"Median gapfilled"
-7,"Pleuronectiformes-67",300061,2017,5935.353,0.2509476,1,"Median gapfilled"
-7,"Teuthida-67",390002,2017,2.257009,0.2509476,1,"Median gapfilled"
-7,"Octopoda-67",390007,2017,0.0001016273,0.2509476,1,"Median gapfilled"
-7,"Decapoda-67",390013,2017,3863.004,0.2509476,1,"Median gapfilled"
-7,"Lamnidae-67",400009,2017,6.184362e-06,0.4015161,1,"Median gapfilled"
-7,"Rajidae-67",400019,2017,1080.587,0.4015161,1,"Median gapfilled"
-7,"Clupeidae-67",400043,2017,883.2518,0.4015161,1,"Median gapfilled"
-7,"Salmonidae-67",400076,2017,0.2008096,0.4015161,1,"Median gapfilled"
-7,"Osmeridae-67",400080,2017,29.07177,0.4015161,1,"Median gapfilled"
-7,"Gadidae-67",400183,2017,0.007239682,0.4015161,1,"Median gapfilled"
-7,"Hexagrammidae-67",400271,2017,0.05966007,0.4015161,1,"Median gapfilled"
-7,"Cottidae-67",400277,2017,1.125837,0.4015161,1,"Median gapfilled"
-7,"Carangidae-67",400314,2017,0.0006279907,0.4015161,1,"Median gapfilled"
-7,"Ammodytidae-67",400402,2017,7.610566e-05,0.4015161,1,"Median gapfilled"
-7,"Scombridae-67",400416,2017,354.5005,0.4015161,1,"Median gapfilled"
-7,"Pleuronectidae-67",400440,2017,1.967441,0.4015161,1,"Median gapfilled"
-7,"Engraulidae-67",400454,2017,2.066829e-05,0.4015161,1,"Median gapfilled"
-7,"Triakidae-67",400488,2017,2.943649e-05,0.4015161,1,"Median gapfilled"
-7,"Sebastidae-67",400573,2017,8458.221,0.4015161,1,"Median gapfilled"
-7,"Octopodidae-67",490012,2017,3.307798,0.4015161,1,"Median gapfilled"
-7,"Lithodidae-67",490036,2017,0.4466159,0.4015161,1,"Median gapfilled"
-7,"Penaeidae-67",490043,2017,0.0376611,0.4015161,1,"Median gapfilled"
-7,"Pandalidae-67",490046,2017,0.6605991,0.4015161,1,"Median gapfilled"
-7,"Cardiidae-67",490058,2017,0.04085789,0.4015161,1,"Median gapfilled"
-7,"Veneridae-67",490060,2017,41.11497,0.4015161,1,"Median gapfilled"
-7,"Solenidae-67",490061,2017,0.004720046,0.4015161,1,"Median gapfilled"
-7,"Brachyura-67",490097,2017,1238.225,0.4015161,1,"Median gapfilled"
-7,"Ostreidae-67",490143,2017,1869.534,0.4015161,1,"Median gapfilled"
-7,"Raja-67",500108,2017,119.6696,0.4517056,1,"Median gapfilled"
-7,"Ammodytes-67",500124,2017,0.0005954352,0.4517056,1,"Median gapfilled"
-7,"Isurus-67",500638,2017,0.0006743901,0.4517056,1,"Median gapfilled"
-7,"Myoxocephalus-67",500717,2017,0.00292934,0.4517056,1,"Median gapfilled"
-7,"Sebastes-67",501135,2017,4.402388,0.4517056,1,"Median gapfilled"
-7,"Porichthys-67",502224,2017,8.080768e-06,0.4517056,1,"Median gapfilled"
-7,"Oncorhynchus-67",502724,2017,0.3882688,0.4517056,1,"Median gapfilled"
-7,"Coregonus-67",506253,2017,0.0003712015,0.4517056,1,"Median gapfilled"
-7,"Loligo-67",590010,2017,0.0003950846,0.4517056,1,"Median gapfilled"
-7,"Crassostrea-67",590014,2017,0.0008727097,0.4517056,1,"Median gapfilled"
-7,"Haliotis-67",590046,2017,38.69232,0.4517056,1,"Median gapfilled"
-7,"Chionoecetes-67",590065,2017,24.22151,0.4517056,1,"Median gapfilled"
-7,"Pandalus-67",590093,2017,0.07507921,0.4517056,1,"Median gapfilled"
-7,"Ostrea-67",590112,2017,0.02562426,0.4517056,1,"Median gapfilled"
-7,"Strongylocentrotus-67",590158,2017,0.247971,0.4517056,1,"Median gapfilled"
-7,"Tresus-67",590269,2017,57.20299,0.4517056,1,"Median gapfilled"
-7,"Katsuwonus_pelamis-67",600107,2017,0.01233665,0.5018951,1,"Median gapfilled"
-7,"Scomber_japonicus-67",600117,2017,1.542745,0.8245485,0,NA
-7,"Oncorhynchus_mykiss-67",600239,2017,54.35238,0.5018951,1,"Median gapfilled"
-7,"Oncorhynchus_gorbuscha-67",600240,2017,27224.76,0.6902204,0,NA
-7,"Oncorhynchus_keta-67",600241,2017,19733.22,0.5150985,0,NA
-7,"Oncorhynchus_nerka-67",600243,2017,29234.07,0.5022811,0,NA
-7,"Oncorhynchus_tshawytscha-67",600244,2017,9275.14,0.4575629,0,NA
-7,"Oncorhynchus_kisutch-67",600245,2017,10332.81,0.5018951,1,"Median gapfilled"
-7,"Mallotus_villosus-67",600252,2017,0.003170236,0.5018951,1,"Median gapfilled"
-7,"Hypomesus_pretiosus-67",600255,2017,2.679126,0.5018951,1,"Median gapfilled"
-7,"Thaleichthys_pacificus-67",600256,2017,27.85704,0.5018951,1,"Median gapfilled"
-7,"Cololabis_saira-67",600303,2017,0.2751416,0.5018951,1,"Median gapfilled"
-7,"Gadus_macrocephalus-67",600308,2017,3811.496,0.7828778,0,NA
-7,"Theragra_chalcogramma-67",600318,2017,5029.327,0.9759721,0,NA
-7,"Trachurus_symmetricus-67",600368,2017,1.163351,0.5018951,1,"Median gapfilled"
-7,"Sebastes_entomelas-67",600502,2017,36.31754,0.3223727,0,NA
-7,"Sebastes_flavidus-67",600503,2017,1.338883,0.4447982,0,NA
-7,"Sebastes_alutus-67",600504,2017,6337.664,0.7446218,0,NA
-7,"Ophiodon_elongatus-67",600509,2017,6107.471,0.4520768,0,NA
-7,"Anoplopoma_fimbria-67",600512,2017,3991.885,0.8966614,0,NA
-7,"Hippoglossus_stenolepis-67",600514,2017,9984.086,0.7973561,0,NA
-7,"Reinhardtius_hippoglossoides-67",600516,2017,1.525625,0.4390533,0,NA
-7,"Atheresthes_stomias-67",600517,2017,592.2179,0.25,0,NA
-7,"Atheresthes_evermanni-67",600518,2017,0.02273446,0.5018951,1,"Median gapfilled"
-7,"Hippoglossoides_elassodon-67",600519,2017,10.79297,1,0,NA
-7,"Limanda_aspera-67",600520,2017,110.8584,0.9583372,0,NA
-7,"Isurus_oxyrinchus-67",600752,2017,3.133102e-05,0.5018951,1,"Median gapfilled"
-7,"Prionace_glauca-67",600898,2017,0.0541599,0.5018951,1,"Median gapfilled"
-7,"Sardinops_sagax-67",601477,2017,242.2482,0.6687132,0,NA
-7,"Clupea_pallasii_pallasii-67",601520,2017,26808.45,0.5018951,1,"Median gapfilled"
-7,"Alosa_sapidissima-67",601584,2017,1.285307,0.5018951,1,"Median gapfilled"
-7,"Engraulis_mordax-67",601664,2017,1.579752,0.5018951,1,"Median gapfilled"
-7,"Mola_mola-67",601732,2017,0.001034902,0.5018951,1,"Median gapfilled"
-7,"Microgadus_proximus-67",601879,2017,0.05080497,0.5018951,1,"Median gapfilled"
-7,"Alopias_vulpinus-67",602535,2017,0.015401,0.5018951,1,"Median gapfilled"
-7,"Somniosus_pacificus-67",602544,2017,0.001012896,0.5018951,1,"Median gapfilled"
-7,"Raja_stellulata-67",602570,2017,7.554852e-06,0.5018951,1,"Median gapfilled"
-7,"Hydrolagus_colliei-67",602589,2017,0.09713683,0.5018951,1,"Median gapfilled"
-7,"Coregonus_pidschian-67",602676,2017,0.05464372,0.5018951,1,"Median gapfilled"
-7,"Coregonus_sardinella-67",602678,2017,0.0002093325,0.5018951,1,"Median gapfilled"
-7,"Salvelinus_malma_malma-67",602691,2017,0.01944766,0.5018951,1,"Median gapfilled"
-7,"Atractoscion_nobilis-67",603578,2017,0.02313298,0.5018951,1,"Median gapfilled"
-7,"Sebastes_crameri-67",603962,2017,1.391697,0.5018951,1,"Median gapfilled"
-7,"Sebastes_goodei-67",603971,2017,0.05073332,0.5018951,1,"Median gapfilled"
-7,"Sebastes_melanops-67",603979,2017,0.6003258,0.5018951,1,"Median gapfilled"
-7,"Sebastes_paucispinis-67",603987,2017,0.009995595,0.06515715,0,NA
-7,"Sebastes_pinniger-67",603989,2017,0.08624427,0.7943522,0,NA
-7,"Sebastolobus_alascanus-67",604009,2017,3.248411,0.5018951,1,"Median gapfilled"
-7,"Pleurogrammus_monopterygius-67",604037,2017,66.7373,0.4797477,0,NA
-7,"Scorpaenichthys_marmoratus-67",604140,2017,1.10466,0.5018951,1,"Median gapfilled"
-7,"Citharichthys_sordidus-67",604215,2017,4.463475,0.5018951,1,"Median gapfilled"
-7,"Eopsetta_jordani-67",604237,2017,1.533099,0.5018951,1,"Median gapfilled"
-7,"Glyptocephalus_zachirus-67",604238,2017,2.239704,0.9844287,0,NA
-7,"Microstomus_pacificus-67",604247,2017,149.0935,0.415493,0,NA
-7,"Parophrys_vetulus-67",604248,2017,0.8587961,0.5018951,1,"Median gapfilled"
-7,"Platichthys_stellatus-67",604249,2017,0.3805064,0.5018951,1,"Median gapfilled"
-7,"Pleuronectes_quadrituberculatus-67",604250,2017,10.45767,0.5018951,1,"Median gapfilled"
-7,"Pleuronichthys_decurrens-67",604252,2017,0.02527181,0.5018951,1,"Median gapfilled"
-7,"Psettichthys_melanostictus-67",604255,2017,3.949288,0.5018951,1,"Median gapfilled"
-7,"Galeorhinus_galeus-67",604642,2017,0.0006261525,0.5018951,1,"Median gapfilled"
-7,"Sarda_chiliensis_lineolata-67",604796,2017,0.0002476176,0.5018951,1,"Median gapfilled"
-7,"Thunnus_orientalis-67",614290,2017,0.0007435259,0.2937354,0,NA
-7,"Lepidopsetta_bilineata-67",624237,2017,64.53368,0.298935,0,NA
-7,"Coregonus_laurettae-67",646941,2017,3.897166e-07,0.5018951,1,"Median gapfilled"
-7,"Saxidomus_gigantea-67",690064,2017,1723.914,0.3696843,0,NA
-7,"Metacarcinus_magister-67",690115,2017,3593.387,0.9257566,0,NA
-7,"Crassostrea_gigas-67",690283,2017,373.3395,0.9210073,0,NA
-7,"Panopea_abrupta-67",690284,2017,3805.375,0.5018951,1,"Median gapfilled"
-7,"Leukoma_staminea-67",690285,2017,0.4144663,0.5018951,1,"Median gapfilled"
-7,"Siliqua_patula-67",690286,2017,0.006208732,0.5018951,1,"Median gapfilled"
-7,"Cancer_productus-67",690287,2017,0.9711434,0.5018951,1,"Median gapfilled"
-7,"Mya_arenaria-67",690337,2017,3.047166,0.5018951,1,"Median gapfilled"
-7,"Patinopecten_caurinus-67",690429,2017,2.102005,0.5018951,1,"Median gapfilled"
-7,"Erimacrus_isenbeckii-67",690608,2017,0.0004783447,0.5018951,1,"Median gapfilled"
-7,"Paralithodes_camtschaticus-67",690621,2017,14.45236,0.5018951,1,"Median gapfilled"
-7,"Clinocardium_nuttallii-67",690651,2017,1.538457,0.5018951,1,"Median gapfilled"
-7,"Doryteuthis_opalescens-67",690658,2017,0.2152215,0.5018951,1,"Median gapfilled"
-7,"Pandalus_jordani-67",690660,2017,3.245375,0.8939258,0,NA
-7,"Upogebia_pugettensis-67",690665,2017,0.1499858,0.5018951,1,"Median gapfilled"
-7,"Enteroctopus_dofleini-67",690891,2017,0.0214206,0.5018951,1,"Median gapfilled"
-8,"Marine_fishes_not_identified-18",100039,2017,10.79629,0.05018951,1,"Median gapfilled"
-8,"Miscellaneous_marine_crustaceans-18",100047,2017,0.5205559,0.05018951,1,"Median gapfilled"
-8,"Miscellaneous_aquatic_invertebrates-18",100077,2017,0.0007289316,0.05018951,1,"Median gapfilled"
-8,"Marine_finfishes_not_identified-18",100139,2017,0.002124661,0.05018951,1,"Median gapfilled"
-8,"Marine_groundfishes_not_identified-18",100239,2017,0.0137277,0.05018951,1,"Median gapfilled"
-8,"Marine_pelagic_fishes_not_identified-18",100339,2017,1.201963e-05,0.05018951,1,"Median gapfilled"
-8,"Mollusca-18",190195,2017,0.9839612,0.05018951,1,"Median gapfilled"
-8,"Elasmobranchii-18",200004,2017,0.005079748,0.1254738,1,"Median gapfilled"
-8,"Chondrichthyes-18",200538,2017,0.00112588,0.1254738,1,"Median gapfilled"
-8,"Bivalvia-18",290004,2017,0.09249652,0.1254738,1,"Median gapfilled"
-8,"Scyphozoa-18",290013,2017,0.00142498,0.1254738,1,"Median gapfilled"
-8,"Malacostraca-18",290022,2017,0.01081544,0.1254738,1,"Median gapfilled"
-8,"Gadiformes-18",300044,2017,0.002004426,0.2509476,1,"Median gapfilled"
-8,"Scorpaeniformes-18",300059,2017,0.00284978,0.2509476,1,"Median gapfilled"
-8,"Perciformes-18",300060,2017,3.837417e-05,0.2509476,1,"Median gapfilled"
-8,"Pleuronectiformes-18",300061,2017,0.045948,0.2509476,1,"Median gapfilled"
-8,"Teuthida-18",390002,2017,0.0001424763,0.2509476,1,"Median gapfilled"
-8,"Rajidae-18",400019,2017,0.2390295,0.4015161,1,"Median gapfilled"
-8,"Salmonidae-18",400076,2017,0.0003832166,0.4015161,1,"Median gapfilled"
-8,"Osmeridae-18",400080,2017,0.2148654,0.4015161,1,"Median gapfilled"
-8,"Gadidae-18",400183,2017,30.48428,0.4015161,1,"Median gapfilled"
-8,"Cottidae-18",400277,2017,0.8045818,0.4015161,1,"Median gapfilled"
-8,"Anarhichadidae-18",400396,2017,3.638754,0.4015161,1,"Median gapfilled"
-8,"Pleuronectidae-18",400440,2017,0.0271866,0.4015161,1,"Median gapfilled"
-8,"Ommastrephidae-18",490004,2017,8.601949e-09,0.4015161,1,"Median gapfilled"
-8,"Mactridae-18",490063,2017,2.10897,0.4015161,1,"Median gapfilled"
-8,"Salmo-18",500136,2017,0.4088322,0.4517056,1,"Median gapfilled"
-8,"Gaidropsarus-18",500686,2017,7.213877e-07,0.4517056,1,"Median gapfilled"
-8,"Myoxocephalus-18",500717,2017,0.02339724,0.4517056,1,"Median gapfilled"
-8,"Sebastes-18",501135,2017,1.781863,0.4517056,1,"Median gapfilled"
-8,"Salvelinus-18",501410,2017,1.247972,0.4517056,1,"Median gapfilled"
-8,"Lycodes-18",501486,2017,0.08755462,0.4517056,1,"Median gapfilled"
-8,"Oncorhynchus-18",502724,2017,0.0002523575,0.4517056,1,"Median gapfilled"
-8,"Anarhichas-18",505897,2017,14.65555,0.4517056,1,"Median gapfilled"
-8,"Coregonus-18",506253,2017,13.12025,0.4517056,1,"Median gapfilled"
-8,"Chionoecetes-18",590065,2017,0.09022985,0.4517056,1,"Median gapfilled"
-8,"Pandalus-18",590093,2017,0.5453908,0.4517056,1,"Median gapfilled"
-8,"Busycon-18",590110,2017,0.4407521,0.4517056,1,"Median gapfilled"
-8,"Strongylocentrotus-18",590158,2017,0.3199931,0.4517056,1,"Median gapfilled"
-8,"Clupea_harengus-18",600024,2017,0.2630667,0.5018951,1,"Median gapfilled"
-8,"Glyptocephalus_cynoglossus-18",600026,2017,0.009602241,0.5018951,1,"Median gapfilled"
-8,"Cyclopterus_lumpus-18",600062,2017,0.0002749513,0.5018951,1,"Median gapfilled"
-8,"Gadus_morhua-18",600069,2017,1.849446,0.5018951,1,"Median gapfilled"
-8,"Somniosus_microcephalus-18",600138,2017,0.002876031,0.5018951,1,"Median gapfilled"
-8,"Thunnus_thynnus-18",600147,2017,0.0003013703,0.4631772,0,NA
-8,"Salmo_salar-18",600236,2017,34.90356,0.5018951,1,"Median gapfilled"
-8,"Oncorhynchus_gorbuscha-18",600240,2017,0.07320611,0.5018951,1,"Median gapfilled"
-8,"Salvelinus_alpinus_alpinus-18",600247,2017,813.19,0.464966,0,NA
-8,"Mallotus_villosus-18",600252,2017,3.926377,0.5018951,1,"Median gapfilled"
-8,"Osmerus_mordax_mordax-18",600253,2017,0.0902177,0.5018951,1,"Median gapfilled"
-8,"Gadus_ogac-18",600309,2017,0.2635595,0.5018951,1,"Median gapfilled"
-8,"Eleginus_gracilis-18",600315,2017,0.05963836,0.5018951,1,"Median gapfilled"
-8,"Boreogadus_saida-18",600319,2017,0.07073943,0.5018951,1,"Median gapfilled"
-8,"Macrourus_berglax-18",600331,2017,1.375753,0.5018951,1,"Median gapfilled"
-8,"Sebastes_mentella-18",600505,2017,0.04828039,0.5018951,1,"Median gapfilled"
-8,"Reinhardtius_hippoglossoides-18",600516,2017,0.8536837,0.5018951,1,"Median gapfilled"
-8,"Prionace_glauca-18",600898,2017,1.218872e-05,0.5018951,1,"Median gapfilled"
-8,"Pollachius_virens-18",601343,2017,1.221807,0.5018951,1,"Median gapfilled"
-8,"Hippoglossus_hippoglossus-18",601371,2017,0.002449387,0.5018951,1,"Median gapfilled"
-8,"Clupea_pallasii_pallasii-18",601520,2017,2.428298,0.5018951,1,"Median gapfilled"
-8,"Coregonus_autumnalis-18",602669,2017,0.1121522,0.4637057,0,NA
-8,"Coregonus_nasus-18",602674,2017,36.98543,0.477258,0,NA
-8,"Coregonus_sardinella-18",602678,2017,0.004960076,0.5018951,1,"Median gapfilled"
-8,"Salvelinus_malma_malma-18",602691,2017,1.284957,0.5018951,1,"Median gapfilled"
-8,"Stenodus_leucichthys-18",602692,2017,13.12118,0.5018951,1,"Median gapfilled"
-8,"Anarhichas_denticulatus-18",603810,2017,0.09460916,0.5018951,1,"Median gapfilled"
-8,"Myoxocephalus_quadricornis-18",604122,2017,0.005983383,0.5018951,1,"Median gapfilled"
-8,"Platichthys_stellatus-18",604249,2017,0.115458,0.5018951,1,"Median gapfilled"
-8,"Coregonus_laurettae-18",646941,2017,0.000506822,0.5018951,1,"Median gapfilled"
-8,"Pandalus_borealis-18",690269,2017,2.268573,0.5018951,1,"Median gapfilled"
-8,"Illex_illecebrosus-18",690271,2017,0.0006589002,0.5018951,1,"Median gapfilled"
-8,"Chionoecetes_opilio-18",690313,2017,2.173881,0.5018951,1,"Median gapfilled"
-8,"Mactromeris_polynyma-18",690398,2017,10.2754,0.5018951,1,"Median gapfilled"
-8,"Buccinum_undatum-18",690434,2017,0.2011871,0.5018951,1,"Median gapfilled"
-8,"Strongylocentrotus_droebachiensis-18",690494,2017,0.06147906,0.5018951,1,"Median gapfilled"
-8,"Marine_fishes_not_identified-21",100039,2017,45419.51,0.05018951,1,"Median gapfilled"
-8,"Miscellaneous_marine_crustaceans-21",100047,2017,875.194,0.05018951,1,"Median gapfilled"
-8,"Miscellaneous_aquatic_invertebrates-21",100077,2017,20.515,0.05018951,1,"Median gapfilled"
-8,"Marine_finfishes_not_identified-21",100139,2017,187.7044,0.05018951,1,"Median gapfilled"
-8,"Marine_groundfishes_not_identified-21",100239,2017,1.482691,0.05018951,1,"Median gapfilled"
-8,"Marine_pelagic_fishes_not_identified-21",100339,2017,1779.361,0.05018951,1,"Median gapfilled"
-8,"Mollusca-21",190195,2017,7697.031,0.05018951,1,"Median gapfilled"
-8,"Elasmobranchii-21",200004,2017,122.9352,0.1254738,1,"Median gapfilled"
-8,"Chondrichthyes-21",200538,2017,171.293,0.1254738,1,"Median gapfilled"
-8,"Bivalvia-21",290004,2017,1279.621,0.1254738,1,"Median gapfilled"
-8,"Gastropoda-21",290006,2017,38.75194,0.1254738,1,"Median gapfilled"
-8,"Scyphozoa-21",290013,2017,6.032029,0.1254738,1,"Median gapfilled"
-8,"Malacostraca-21",290022,2017,5048.255,0.1254738,1,"Median gapfilled"
-8,"Carcharhiniformes-21",300008,2017,0.2502933,0.2509476,1,"Median gapfilled"
-8,"Squaliformes-21",300009,2017,7.766109,0.2509476,1,"Median gapfilled"
-8,"Rajiformes-21",300014,2017,29.50607,0.2509476,1,"Median gapfilled"
-8,"Clupeiformes-21",300028,2017,124.2268,0.2509476,1,"Median gapfilled"
-8,"Scombroidea-21",300036,2017,19.92365,0.2509476,1,"Median gapfilled"
-8,"Gadiformes-21",300044,2017,5.948318,0.2509476,1,"Median gapfilled"
-8,"Scorpaeniformes-21",300059,2017,816.7419,0.2509476,1,"Median gapfilled"
-8,"Perciformes-21",300060,2017,13.77879,0.2509476,1,"Median gapfilled"
-8,"Pleuronectiformes-21",300061,2017,2431.402,0.2509476,1,"Median gapfilled"
-8,"Teuthida-21",390002,2017,535.0398,0.2509476,1,"Median gapfilled"
-8,"Octopoda-21",390007,2017,1.845401,0.2509476,1,"Median gapfilled"
-8,"Decapoda-21",390013,2017,8.296858,0.2509476,1,"Median gapfilled"
-8,"Myxinidae-21",400002,2017,23.3785,0.4015161,1,"Median gapfilled"
-8,"Lamnidae-21",400009,2017,0.08026294,0.4015161,1,"Median gapfilled"
-8,"Carcharhinidae-21",400011,2017,0.2342263,0.4015161,1,"Median gapfilled"
-8,"Sphyrnidae-21",400012,2017,0.01985937,0.4015161,1,"Median gapfilled"
-8,"Squalidae-21",400013,2017,292.6543,0.4015161,1,"Median gapfilled"
-8,"Rajidae-21",400019,2017,1402.019,0.4015161,1,"Median gapfilled"
-8,"Myliobatidae-21",400022,2017,0.01771231,0.4015161,1,"Median gapfilled"
-8,"Clupeidae-21",400043,2017,2.025977,0.4015161,1,"Median gapfilled"
-8,"Salmonidae-21",400076,2017,5.757891,0.4015161,1,"Median gapfilled"
-8,"Osmeridae-21",400080,2017,868.6738,0.4015161,1,"Median gapfilled"
-8,"Gadidae-21",400183,2017,5.181183,0.4015161,1,"Median gapfilled"
-8,"Batrachoididae-21",400189,2017,0.009483258,0.4015161,1,"Median gapfilled"
-8,"Lophiidae-21",400190,2017,112.0954,0.4015161,1,"Median gapfilled"
-8,"Trachichthyidae-21",400236,2017,3.927981e-05,0.4015161,1,"Median gapfilled"
-8,"Cottidae-21",400277,2017,2044.578,0.4015161,1,"Median gapfilled"
-8,"Rachycentridae-21",400312,2017,0.1831681,0.4015161,1,"Median gapfilled"
-8,"Echeneidae-21",400313,2017,0.0002966349,0.4015161,1,"Median gapfilled"
-8,"Carangidae-21",400314,2017,0.01838469,0.4015161,1,"Median gapfilled"
-8,"Lutjanidae-21",400323,2017,0.004146216,0.4015161,1,"Median gapfilled"
-8,"Haemulidae-21",400327,2017,7.132955e-05,0.4015161,1,"Median gapfilled"
-8,"Sparidae-21",400330,2017,25.76975,0.4015161,1,"Median gapfilled"
-8,"Sciaenidae-21",400331,2017,0.2017246,0.4015161,1,"Median gapfilled"
-8,"Mugilidae-21",400359,2017,0.3162424,0.4015161,1,"Median gapfilled"
-8,"Anarhichadidae-21",400396,2017,33.02001,0.4015161,1,"Median gapfilled"
-8,"Scombridae-21",400416,2017,3.913187,0.4015161,1,"Median gapfilled"
-8,"Istiophoridae-21",400419,2017,0.01471692,0.4015161,1,"Median gapfilled"
-8,"Centrolophidae-21",400421,2017,0.000310317,0.4015161,1,"Median gapfilled"
-8,"Stromateidae-21",400425,2017,0.0001305454,0.4015161,1,"Median gapfilled"
-8,"Pleuronectidae-21",400440,2017,759.5334,0.4015161,1,"Median gapfilled"
-8,"Balistidae-21",400445,2017,0.01909363,0.4015161,1,"Median gapfilled"
-8,"Ostraciidae-21",400446,2017,0.0006604859,0.4015161,1,"Median gapfilled"
-8,"Engraulidae-21",400454,2017,0.03996072,0.4015161,1,"Median gapfilled"
-8,"Paralichthyidae-21",400514,2017,0.02082861,0.4015161,1,"Median gapfilled"
-8,"Ommastrephidae-21",490004,2017,0.1681933,0.4015161,1,"Median gapfilled"
-8,"Littorinidae-21",490023,2017,6.48615,0.4015161,1,"Median gapfilled"
-8,"Lithodidae-21",490036,2017,718.3095,0.4015161,1,"Median gapfilled"
-8,"Penaeidae-21",490043,2017,3.091613e-06,0.4015161,1,"Median gapfilled"
-8,"Pandalidae-21",490046,2017,184.3405,0.4015161,1,"Median gapfilled"
-8,"Pectinidae-21",490055,2017,22.68721,0.4015161,1,"Median gapfilled"
-8,"Mactridae-21",490063,2017,15122.83,0.4015161,1,"Median gapfilled"
-8,"Brachyura-21",490097,2017,1664.737,0.4015161,1,"Median gapfilled"
-8,"Paralichthys-21",500048,2017,0.0459383,0.4517056,1,"Median gapfilled"
-8,"Squalus-21",500107,2017,703.3111,0.4517056,1,"Median gapfilled"
-8,"Salmo-21",500136,2017,5176.095,0.4517056,1,"Median gapfilled"
-8,"Mugil-21",500152,2017,0.003543496,0.4517056,1,"Median gapfilled"
-8,"Coryphaenoides-21",500158,2017,138.5607,0.4517056,1,"Median gapfilled"
-8,"Alosa-21",500352,2017,22.99805,0.4517056,1,"Median gapfilled"
-8,"Mola-21",500358,2017,0.06536445,0.4517056,1,"Median gapfilled"
-8,"Sphyraena-21",500372,2017,0.004736259,0.4517056,1,"Median gapfilled"
-8,"Isurus-21",500638,2017,0.1340487,0.4517056,1,"Median gapfilled"
-8,"Alopias-21",500639,2017,9.893537,0.4517056,1,"Median gapfilled"
-8,"Etmopterus-21",500642,2017,2.531306e-07,0.4517056,1,"Median gapfilled"
-8,"Merluccius-21",500654,2017,425.8625,0.4517056,1,"Median gapfilled"
-8,"Gaidropsarus-21",500686,2017,1.036284,0.4517056,1,"Median gapfilled"
-8,"Sphyrna-21",500693,2017,1.269024,0.4517056,1,"Median gapfilled"
-8,"Myoxocephalus-21",500717,2017,606.3231,0.4517056,1,"Median gapfilled"
-8,"Carcharhinus-21",500816,2017,0.5688999,0.4517056,1,"Median gapfilled"
-8,"Aluterus-21",500854,2017,0.0001559969,0.4517056,1,"Median gapfilled"
-8,"Serranus-21",500901,2017,0.01728376,0.4517056,1,"Median gapfilled"
-8,"Dorosoma-21",500983,2017,6.112824e-07,0.4517056,1,"Median gapfilled"
-8,"Beryx-21",501129,2017,126.0588,0.4517056,1,"Median gapfilled"
-8,"Sebastes-21",501135,2017,66823.81,0.4517056,1,"Median gapfilled"
-8,"Peprilus-21",501164,2017,0.02322802,0.4517056,1,"Median gapfilled"
-8,"Salvelinus-21",501410,2017,4561.933,0.4517056,1,"Median gapfilled"
-8,"Lycodes-21",501486,2017,469.5238,0.4517056,1,"Median gapfilled"
-8,"Thunnus-21",501905,2017,0.1356636,0.4517056,1,"Median gapfilled"
-8,"Cynoscion-21",502794,2017,3.547086,0.4517056,1,"Median gapfilled"
-8,"Mycteroperca-21",503028,2017,0.0004102209,0.4517056,1,"Median gapfilled"
-8,"Anarhichas-21",505897,2017,3958.282,0.4517056,1,"Median gapfilled"
-8,"Sphoeroides-21",509125,2017,0.0002359987,0.4517056,1,"Median gapfilled"
-8,"Octopus-21",590013,2017,0.002244673,0.4517056,1,"Median gapfilled"
-8,"Littorina-21",590049,2017,227.4151,0.4517056,1,"Median gapfilled"
-8,"Chionoecetes-21",590065,2017,1204.952,0.4517056,1,"Median gapfilled"
-8,"Geryon-21",590067,2017,14.62198,0.4517056,1,"Median gapfilled"
-8,"Pandalus-21",590093,2017,13915.84,0.4517056,1,"Median gapfilled"
-8,"Busycon-21",590110,2017,2524.963,0.4517056,1,"Median gapfilled"
-8,"Strongylocentrotus-21",590158,2017,1641.527,0.4517056,1,"Median gapfilled"
-8,"Coryphaena_hippurus-21",600006,2017,5.13749,0.5018951,1,"Median gapfilled"
-8,"Clupea_harengus-21",600024,2017,201148.8,0.5215258,0,NA
-8,"Glyptocephalus_cynoglossus-21",600026,2017,7100.31,0.1497465,0,NA
-8,"Micromesistius_poutassou-21",600031,2017,2.522654,0.5018951,1,"Median gapfilled"
-8,"Molva_molva-21",600033,2017,4.264379,0.5018951,1,"Median gapfilled"
-8,"Brosme_brosme-21",600051,2017,2617.131,0.4459093,0,NA
-8,"Cyclopterus_lumpus-21",600062,2017,336.2191,0.4560337,0,NA
-8,"Gadus_morhua-21",600069,2017,251267.6,0.07341207,0,NA
-8,"Caranx_hippos-21",600071,2017,0.0005577368,0.5018951,1,"Median gapfilled"
-8,"Helicolenus_dactylopterus-21",600076,2017,0.002610828,0.5018951,1,"Median gapfilled"
-8,"Istiophorus_albicans-21",600078,2017,17.9979,0.015,0,NA
-8,"Lamna_nasus-21",600088,2017,554.3265,0.3166408,0,NA
-8,"Cetorhinus_maximus-21",600090,2017,1.456498,0.5018951,1,"Median gapfilled"
-8,"Auxis_thazard-21",600094,2017,0.01186985,0.5018951,1,"Median gapfilled"
-8,"Katsuwonus_pelamis-21",600107,2017,4.253181,0.88,0,NA
-8,"Sarda_sarda-21",600115,2017,20.55302,0.5018951,1,"Median gapfilled"
-8,"Scomber_scombrus-21",600118,2017,32973.46,0.5018951,1,"Median gapfilled"
-8,"Somniosus_microcephalus-21",600138,2017,0.2108001,0.5018951,1,"Median gapfilled"
-8,"Squalus_acanthias-21",600139,2017,1338.219,1,0,NA
-8,"Thunnus_albacares-21",600143,2017,288.7238,0.6541818,0,NA
-8,"Thunnus_atlanticus-21",600144,2017,20.20111,0.5018951,1,"Median gapfilled"
-8,"Thunnus_obesus-21",600146,2017,105.1919,0.9678788,0,NA
-8,"Thunnus_thynnus-21",600147,2017,600.0383,0.4631772,0,NA
-8,"Ocyurus_chrysurus-21",600188,2017,6.31755e-08,0.5018951,1,"Median gapfilled"
-8,"Makaira_nigricans-21",600216,2017,1.353607,0.4994545,0,NA
-8,"Kajikia_albida-21",600219,2017,2.393925,0.4313939,0,NA
-8,"Tetrapturus_pfluegeri-21",600220,2017,0.0002232789,0.5018951,1,"Median gapfilled"
-8,"Xiphias_gladius-21",600226,2017,1238.494,0.9187343,0,NA
-8,"Alepocephalus_bairdii-21",600230,2017,5.520094,0.5018951,1,"Median gapfilled"
-8,"Salmo_salar-21",600236,2017,6038.666,0.5018951,1,"Median gapfilled"
-8,"Salvelinus_alpinus_alpinus-21",600247,2017,275.9806,0.5018951,1,"Median gapfilled"
-8,"Mallotus_villosus-21",600252,2017,48021.09,0.5018951,1,"Median gapfilled"
-8,"Osmerus_mordax_mordax-21",600253,2017,1086.465,0.5018951,1,"Median gapfilled"
-8,"Anguilla_rostrata-21",600296,2017,539.0883,0.4726044,0,NA
-8,"Gadus_ogac-21",600309,2017,141.0716,0.5018951,1,"Median gapfilled"
-8,"Urophycis_chuss-21",600312,2017,673.7264,0.5018951,1,"Median gapfilled"
-8,"Urophycis_tenuis-21",600313,2017,9951.462,0.7645903,0,NA
-8,"Microgadus_tomcod-21",600316,2017,62.2544,0.5018951,1,"Median gapfilled"
-8,"Merluccius_bilinearis-21",600323,2017,28037.4,0.2877119,0,NA
-8,"Macrourus_berglax-21",600331,2017,1418.799,0.3246663,0,NA
-8,"Coryphaenoides_rupestris-21",600332,2017,1357.669,0.3873215,0,NA
-8,"Zenopsis_conchifer-21",600336,2017,0.9151161,0.5018951,1,"Median gapfilled"
-8,"Menidia_menidia-21",600339,2017,241.9128,0.5018951,1,"Median gapfilled"
-8,"Polyprion_americanus-21",600349,2017,0.5782866,0.5018951,1,"Median gapfilled"
-8,"Morone_saxatilis-21",600353,2017,1250.765,1,0,NA
-8,"Morone_americana-21",600355,2017,1.634912,0.9490393,0,NA
-8,"Centropristis_striata-21",600361,2017,0.01436386,0.5018951,1,"Median gapfilled"
-8,"Lopholatilus_chamaeleonticeps-21",600362,2017,21.88127,0.5015092,0,NA
-8,"Pomatomus_saltatrix-21",600364,2017,11.1894,0.8767842,0,NA
-8,"Trachurus_lathami-21",600369,2017,0.0001928429,0.5018951,1,"Median gapfilled"
-8,"Selar_crumenophthalmus-21",600387,2017,2.483139e-05,0.5018951,1,"Median gapfilled"
-8,"Cynoscion_regalis-21",600406,2017,1.233966,0.015,0,NA
-8,"Pogonias_cromis-21",600425,2017,0.3134913,0.5018951,1,"Median gapfilled"
-8,"Archosargus_probatocephalus-21",600441,2017,0.06653359,0.5018951,1,"Median gapfilled"
-8,"Stenotomus_chrysops-21",600452,2017,14.8315,0.9675739,0,NA
-8,"Tautoga_onitis-21",600458,2017,0.02299448,0.4569505,0,NA
-8,"Zoarces_americanus-21",600480,2017,377.0384,0.4401508,0,NA
-8,"Peprilus_triacanthus-21",600492,2017,182.3378,0.8403882,0,NA
-8,"Sebastes_norvegicus-21",600501,2017,430.6169,0.5018951,1,"Median gapfilled"
-8,"Sebastes_mentella-21",600505,2017,1126.988,0.4034263,0,NA
-8,"Reinhardtius_hippoglossoides-21",600516,2017,31386.32,0.9700591,0,NA
-8,"Limanda_ferruginea-21",600521,2017,11632.63,0.6450005,0,NA
-8,"Pseudopleuronectes_americanus-21",600524,2017,2742.791,0.493472,0,NA
-8,"Scophthalmus_aquosus-21",600530,2017,9.4201,0.015,0,NA
-8,"Lophius_americanus-21",600532,2017,1567.052,0.4085584,0,NA
-8,"Aphanopus_carbo-21",600646,2017,8.589966,0.5018951,1,"Median gapfilled"
-8,"Centroscyllium_fabricii-21",600656,2017,822.8048,0.5018951,1,"Median gapfilled"
-8,"Centroscymnus_coelolepis-21",600662,2017,0.6985358,0.5018951,1,"Median gapfilled"
-8,"Carcharias_taurus-21",600747,2017,0.08642643,0.5018951,1,"Median gapfilled"
-8,"Carcharodon_carcharias-21",600751,2017,0.01295173,0.5018951,1,"Median gapfilled"
-8,"Isurus_oxyrinchus-21",600752,2017,139.3498,0.5018951,1,"Median gapfilled"
-8,"Isurus_paucus-21",600753,2017,0.9021456,0.5018951,1,"Median gapfilled"
-8,"Mugil_cephalus-21",600785,2017,0.3815914,0.5018951,1,"Median gapfilled"
-8,"Carcharhinus_longimanus-21",600875,2017,0.2395417,0.5018951,1,"Median gapfilled"
-8,"Carcharhinus_obscurus-21",600878,2017,0.01748698,0.5018951,1,"Median gapfilled"
-8,"Carcharhinus_plumbeus-21",600880,2017,0.1326008,0.5018951,1,"Median gapfilled"
-8,"Galeocerdo_cuvier-21",600886,2017,0.5261602,0.5018951,1,"Median gapfilled"
-8,"Prionace_glauca-21",600898,2017,1781.033,1,0,NA
-8,"Rhizoprionodon_terraenovae-21",600905,2017,0.0001282149,0.5018951,1,"Median gapfilled"
-8,"Sphyrna_lewini-21",600912,2017,0.515401,0.5018951,1,"Median gapfilled"
-8,"Sphyrna_mokarran-21",600914,2017,9.497498e-05,0.5018951,1,"Median gapfilled"
-8,"Sphyrna_zygaena-21",600917,2017,0.03431963,0.5018951,1,"Median gapfilled"
-8,"Naucrates_ductor-21",600998,2017,0.0005699208,0.5018951,1,"Median gapfilled"
-8,"Selene_vomer-21",601004,2017,5.628465e-05,0.5018951,1,"Median gapfilled"
-8,"Seriola_dumerili-21",601005,2017,0.3312288,0.5018951,1,"Median gapfilled"
-8,"Ruvettus_pretiosus-21",601044,2017,0.9901424,0.5018951,1,"Median gapfilled"
-8,"Lampris_guttatus-21",601072,2017,0.001052928,0.5018951,1,"Median gapfilled"
-8,"Lophius_gastrophysus-21",601078,2017,0.0004463935,0.5018951,1,"Median gapfilled"
-8,"Megalops_atlanticus-21",601079,2017,0.0006660785,0.5018951,1,"Median gapfilled"
-8,"Scomberesox_saurus_saurus-21",601084,2017,5.915505e-06,0.5018951,1,"Median gapfilled"
-8,"Anchoa_hepsetus-21",601133,2017,2.23443e-10,0.5018951,1,"Median gapfilled"
-8,"Sphoeroides_maculatus-21",601181,2017,0.003498858,0.5018951,1,"Median gapfilled"
-8,"Sciaenops_ocellatus-21",601191,2017,0.001080679,0.5018951,1,"Median gapfilled"
-8,"Mycteroperca_phenax-21",601213,2017,0.004032189,0.5018951,1,"Median gapfilled"
-8,"Calamus_bajonado-21",601221,2017,0.01440051,0.5018951,1,"Median gapfilled"
-8,"Sphyraena_barracuda-21",601235,2017,41.54453,0.5018951,1,"Median gapfilled"
-8,"Sphyraena_guachancho-21",601236,2017,3.818156e-07,0.5018951,1,"Median gapfilled"
-8,"Trichiurus_lepturus-21",601288,2017,0.002208298,0.5018951,1,"Median gapfilled"
-8,"Paralichthys_dentatus-21",601338,2017,12.6938,0.8613527,0,NA
-8,"Pollachius_virens-21",601343,2017,21187.77,0.25,0,NA
-8,"Hippoglossus_hippoglossus-21",601371,2017,3309.514,0.03866618,0,NA
-8,"Melanogrammus_aeglefinus-21",601381,2017,26464.36,0.015,0,NA
-8,"Molva_dypterygia-21",601383,2017,0.09793955,0.5018951,1,"Median gapfilled"
-8,"Lutjanus_campechanus-21",601423,2017,2.035211e-05,0.5018951,1,"Median gapfilled"
-8,"Etrumeus_sadina-21",601455,2017,8.381719e-05,0.5018951,1,"Median gapfilled"
-8,"Alosa_aestivalis-21",601574,2017,2.247634,0.5018951,1,"Median gapfilled"
-8,"Alosa_mediocris-21",601582,2017,0.04299373,0.5018951,1,"Median gapfilled"
-8,"Alosa_pseudoharengus-21",601583,2017,6101.223,0.5018951,1,"Median gapfilled"
-8,"Alosa_sapidissima-21",601584,2017,77.48417,0.4090138,0,NA
-8,"Brevoortia_tyrannus-21",601592,2017,0.7934119,0.5018951,1,"Median gapfilled"
-8,"Dorosoma_cepedianum-21",601604,2017,0.1950358,0.5018951,1,"Median gapfilled"
-8,"Enchelyopus_cimbrius-21",601874,2017,5.0389,0.5018951,1,"Median gapfilled"
-8,"Caranx_crysos-21",601933,2017,0.001128689,0.5018951,1,"Median gapfilled"
-8,"Antimora_rostrata-21",602005,2017,3.992168,0.5018951,1,"Median gapfilled"
-8,"Anarhichas_lupus-21",602501,2017,430.0839,0.3906003,0,NA
-8,"Petromyzon_marinus-21",602530,2017,3.861046e-05,0.5018951,1,"Median gapfilled"
-8,"Ginglymostoma_cirratum-21",602532,2017,3.738353e-05,0.5018951,1,"Median gapfilled"
-8,"Alopias_superciliosus-21",602534,2017,0.0006496299,0.5018951,1,"Median gapfilled"
-8,"Alopias_vulpinus-21",602535,2017,0.3764419,0.5018951,1,"Median gapfilled"
-8,"Leucoraja_erinacea-21",602557,2017,398.3856,0.5018951,1,"Median gapfilled"
-8,"Dipturus_laevis-21",602561,2017,0.005767878,0.5018951,1,"Median gapfilled"
-8,"Dasyatis_centroura-21",602572,2017,0.001030179,0.5018951,1,"Median gapfilled"
-8,"Tautogolabrus_adspersus-21",603672,2017,313.0117,0.5018951,1,"Median gapfilled"
-8,"Anarhichas_denticulatus-21",603810,2017,16.47923,0.5018951,1,"Median gapfilled"
-8,"Anarhichas_minor-21",603811,2017,3.638901,0.5018951,1,"Median gapfilled"
-8,"Hippoglossoides_platessoides-21",604239,2017,35165.53,0.9527156,0,NA
-8,"Hoplostethus_mediterraneus_mediterraneus-21",604964,2017,0.1391242,0.5018951,1,"Median gapfilled"
-8,"Balistes_capriscus-21",607327,2017,0.05639324,0.5018951,1,"Median gapfilled"
-8,"Gaidropsarus_ensis-21",608425,2017,6.202012,0.5018951,1,"Median gapfilled"
-8,"Pandalus_montagui-21",690003,2017,203.5906,0.5018951,1,"Median gapfilled"
-8,"Crassostrea_virginica-21",690009,2017,2402.634,0.5018951,1,"Median gapfilled"
-8,"Homarus_americanus-21",690010,2017,53592.68,0.8107143,0,NA
-8,"Placopecten_magellanicus-21",690011,2017,63415.36,0.8832568,0,NA
-8,"Ensis_directus-21",690029,2017,0.5728288,0.5018951,1,"Median gapfilled"
-8,"Argopecten_irradians-21",690030,2017,16.05354,0.5018951,1,"Median gapfilled"
-8,"Cancer_irroratus-21",690031,2017,4452.209,0.8827935,0,NA
-8,"Spisula_solidissima-21",690033,2017,1027.188,0.8621372,0,NA
-8,"Callinectes_sapidus-21",690052,2017,102.6493,0.5543956,0,NA
-8,"Carcinus_maenas-21",690158,2017,0.1887665,0.5018951,1,"Median gapfilled"
-8,"Chlamys_islandica-21",690185,2017,2383.069,0.3228091,0,NA
-8,"Cancer_borealis-21",690203,2017,36.28455,0.9478795,0,NA
-8,"Doryteuthis_pealeii-21",690227,2017,58.67699,1,0,NA
-8,"Pandalus_borealis-21",690269,2017,83082.29,0.9231208,0,NA
-8,"Mercenaria_mercenaria-21",690270,2017,1156.061,0.5018951,1,"Median gapfilled"
-8,"Illex_illecebrosus-21",690271,2017,4361.512,0.4849928,0,NA
-8,"Arctica_islandica-21",690275,2017,528.394,0.5018951,1,"Median gapfilled"
-8,"Chionoecetes_opilio-21",690313,2017,67288.14,0.9759119,0,NA
-8,"Mactromeris_polynyma-21",690398,2017,20948.62,0.5018951,1,"Median gapfilled"
-8,"Buccinum_undatum-21",690434,2017,481.7819,0.5018951,1,"Median gapfilled"
-8,"Strongylocentrotus_droebachiensis-21",690494,2017,1577.227,0.9220894,0,NA
-8,"Marine_fishes_not_identified-67",100039,2017,135699.3,0.05018951,1,"Median gapfilled"
-8,"Miscellaneous_marine_crustaceans-67",100047,2017,0.205673,0.05018951,1,"Median gapfilled"
-8,"Miscellaneous_aquatic_invertebrates-67",100077,2017,112.828,0.05018951,1,"Median gapfilled"
-8,"Marine_finfishes_not_identified-67",100139,2017,1.046608,0.05018951,1,"Median gapfilled"
-8,"Marine_groundfishes_not_identified-67",100239,2017,13488.76,0.05018951,1,"Median gapfilled"
-8,"Marine_pelagic_fishes_not_identified-67",100339,2017,9.164755,0.05018951,1,"Median gapfilled"
-8,"Mollusca-67",190195,2017,1540.622,0.05018951,1,"Median gapfilled"
-8,"Elasmobranchii-67",200004,2017,0.2632302,0.1254738,1,"Median gapfilled"
-8,"Chondrichthyes-67",200538,2017,0.0110195,0.1254738,1,"Median gapfilled"
-8,"Cephalopoda-67",290002,2017,0.08995068,0.1254738,1,"Median gapfilled"
-8,"Bivalvia-67",290004,2017,1011.588,0.1254738,1,"Median gapfilled"
-8,"Scyphozoa-67",290013,2017,0.1726995,0.1254738,1,"Median gapfilled"
-8,"Malacostraca-67",290022,2017,7.789421,0.1254738,1,"Median gapfilled"
-8,"Rajiformes-67",300014,2017,6.578262,0.2509476,1,"Median gapfilled"
-8,"Clupeiformes-67",300028,2017,0.003986093,0.2509476,1,"Median gapfilled"
-8,"Gadiformes-67",300044,2017,0.565117,0.2509476,1,"Median gapfilled"
-8,"Scorpaeniformes-67",300059,2017,0.2291242,0.2509476,1,"Median gapfilled"
-8,"Perciformes-67",300060,2017,0.05157614,0.2509476,1,"Median gapfilled"
-8,"Pleuronectiformes-67",300061,2017,5935.353,0.2509476,1,"Median gapfilled"
-8,"Teuthida-67",390002,2017,2.257009,0.2509476,1,"Median gapfilled"
-8,"Octopoda-67",390007,2017,0.0001016273,0.2509476,1,"Median gapfilled"
-8,"Decapoda-67",390013,2017,3863.004,0.2509476,1,"Median gapfilled"
-8,"Lamnidae-67",400009,2017,6.184362e-06,0.4015161,1,"Median gapfilled"
-8,"Rajidae-67",400019,2017,1080.587,0.4015161,1,"Median gapfilled"
-8,"Clupeidae-67",400043,2017,883.2518,0.4015161,1,"Median gapfilled"
-8,"Salmonidae-67",400076,2017,0.2008096,0.4015161,1,"Median gapfilled"
-8,"Osmeridae-67",400080,2017,29.07177,0.4015161,1,"Median gapfilled"
-8,"Gadidae-67",400183,2017,0.007239682,0.4015161,1,"Median gapfilled"
-8,"Hexagrammidae-67",400271,2017,0.05966007,0.4015161,1,"Median gapfilled"
-8,"Cottidae-67",400277,2017,1.125837,0.4015161,1,"Median gapfilled"
-8,"Carangidae-67",400314,2017,0.0006279907,0.4015161,1,"Median gapfilled"
-8,"Ammodytidae-67",400402,2017,7.610566e-05,0.4015161,1,"Median gapfilled"
-8,"Scombridae-67",400416,2017,354.5005,0.4015161,1,"Median gapfilled"
-8,"Pleuronectidae-67",400440,2017,1.967441,0.4015161,1,"Median gapfilled"
-8,"Engraulidae-67",400454,2017,2.066829e-05,0.4015161,1,"Median gapfilled"
-8,"Triakidae-67",400488,2017,2.943649e-05,0.4015161,1,"Median gapfilled"
-8,"Sebastidae-67",400573,2017,8458.221,0.4015161,1,"Median gapfilled"
-8,"Octopodidae-67",490012,2017,3.307798,0.4015161,1,"Median gapfilled"
-8,"Lithodidae-67",490036,2017,0.4466159,0.4015161,1,"Median gapfilled"
-8,"Penaeidae-67",490043,2017,0.0376611,0.4015161,1,"Median gapfilled"
-8,"Pandalidae-67",490046,2017,0.6605991,0.4015161,1,"Median gapfilled"
-8,"Cardiidae-67",490058,2017,0.04085789,0.4015161,1,"Median gapfilled"
-8,"Veneridae-67",490060,2017,41.11497,0.4015161,1,"Median gapfilled"
-8,"Solenidae-67",490061,2017,0.004720046,0.4015161,1,"Median gapfilled"
-8,"Brachyura-67",490097,2017,1238.225,0.4015161,1,"Median gapfilled"
-8,"Ostreidae-67",490143,2017,1869.534,0.4015161,1,"Median gapfilled"
-8,"Raja-67",500108,2017,119.6696,0.4517056,1,"Median gapfilled"
-8,"Ammodytes-67",500124,2017,0.0005954352,0.4517056,1,"Median gapfilled"
-8,"Isurus-67",500638,2017,0.0006743901,0.4517056,1,"Median gapfilled"
-8,"Myoxocephalus-67",500717,2017,0.00292934,0.4517056,1,"Median gapfilled"
-8,"Sebastes-67",501135,2017,4.402388,0.4517056,1,"Median gapfilled"
-8,"Porichthys-67",502224,2017,8.080768e-06,0.4517056,1,"Median gapfilled"
-8,"Oncorhynchus-67",502724,2017,0.3882688,0.4517056,1,"Median gapfilled"
-8,"Coregonus-67",506253,2017,0.0003712015,0.4517056,1,"Median gapfilled"
-8,"Loligo-67",590010,2017,0.0003950846,0.4517056,1,"Median gapfilled"
-8,"Crassostrea-67",590014,2017,0.0008727097,0.4517056,1,"Median gapfilled"
-8,"Haliotis-67",590046,2017,38.69232,0.4517056,1,"Median gapfilled"
-8,"Chionoecetes-67",590065,2017,24.22151,0.4517056,1,"Median gapfilled"
-8,"Pandalus-67",590093,2017,0.07507921,0.4517056,1,"Median gapfilled"
-8,"Ostrea-67",590112,2017,0.02562426,0.4517056,1,"Median gapfilled"
-8,"Strongylocentrotus-67",590158,2017,0.247971,0.4517056,1,"Median gapfilled"
-8,"Tresus-67",590269,2017,57.20299,0.4517056,1,"Median gapfilled"
-8,"Katsuwonus_pelamis-67",600107,2017,0.01233665,0.5018951,1,"Median gapfilled"
-8,"Scomber_japonicus-67",600117,2017,1.542745,0.8245485,0,NA
-8,"Oncorhynchus_mykiss-67",600239,2017,54.35238,0.5018951,1,"Median gapfilled"
-8,"Oncorhynchus_gorbuscha-67",600240,2017,27224.76,0.6902204,0,NA
-8,"Oncorhynchus_keta-67",600241,2017,19733.22,0.5150985,0,NA
-8,"Oncorhynchus_nerka-67",600243,2017,29234.07,0.5022811,0,NA
-8,"Oncorhynchus_tshawytscha-67",600244,2017,9275.14,0.4575629,0,NA
-8,"Oncorhynchus_kisutch-67",600245,2017,10332.81,0.5018951,1,"Median gapfilled"
-8,"Mallotus_villosus-67",600252,2017,0.003170236,0.5018951,1,"Median gapfilled"
-8,"Hypomesus_pretiosus-67",600255,2017,2.679126,0.5018951,1,"Median gapfilled"
-8,"Thaleichthys_pacificus-67",600256,2017,27.85704,0.5018951,1,"Median gapfilled"
-8,"Cololabis_saira-67",600303,2017,0.2751416,0.5018951,1,"Median gapfilled"
-8,"Gadus_macrocephalus-67",600308,2017,3811.496,0.7828778,0,NA
-8,"Theragra_chalcogramma-67",600318,2017,5029.327,0.9759721,0,NA
-8,"Trachurus_symmetricus-67",600368,2017,1.163351,0.5018951,1,"Median gapfilled"
-8,"Sebastes_entomelas-67",600502,2017,36.31754,0.3223727,0,NA
-8,"Sebastes_flavidus-67",600503,2017,1.338883,0.4447982,0,NA
-8,"Sebastes_alutus-67",600504,2017,6337.664,0.7446218,0,NA
-8,"Ophiodon_elongatus-67",600509,2017,6107.471,0.4520768,0,NA
-8,"Anoplopoma_fimbria-67",600512,2017,3991.885,0.8966614,0,NA
-8,"Hippoglossus_stenolepis-67",600514,2017,9984.086,0.7973561,0,NA
-8,"Reinhardtius_hippoglossoides-67",600516,2017,1.525625,0.4390533,0,NA
-8,"Atheresthes_stomias-67",600517,2017,592.2179,0.25,0,NA
-8,"Atheresthes_evermanni-67",600518,2017,0.02273446,0.5018951,1,"Median gapfilled"
-8,"Hippoglossoides_elassodon-67",600519,2017,10.79297,1,0,NA
-8,"Limanda_aspera-67",600520,2017,110.8584,0.9583372,0,NA
-8,"Isurus_oxyrinchus-67",600752,2017,3.133102e-05,0.5018951,1,"Median gapfilled"
-8,"Prionace_glauca-67",600898,2017,0.0541599,0.5018951,1,"Median gapfilled"
-8,"Sardinops_sagax-67",601477,2017,242.2482,0.6687132,0,NA
-8,"Clupea_pallasii_pallasii-67",601520,2017,26808.45,0.5018951,1,"Median gapfilled"
-8,"Alosa_sapidissima-67",601584,2017,1.285307,0.5018951,1,"Median gapfilled"
-8,"Engraulis_mordax-67",601664,2017,1.579752,0.5018951,1,"Median gapfilled"
-8,"Mola_mola-67",601732,2017,0.001034902,0.5018951,1,"Median gapfilled"
-8,"Microgadus_proximus-67",601879,2017,0.05080497,0.5018951,1,"Median gapfilled"
-8,"Alopias_vulpinus-67",602535,2017,0.015401,0.5018951,1,"Median gapfilled"
-8,"Somniosus_pacificus-67",602544,2017,0.001012896,0.5018951,1,"Median gapfilled"
-8,"Raja_stellulata-67",602570,2017,7.554852e-06,0.5018951,1,"Median gapfilled"
-8,"Hydrolagus_colliei-67",602589,2017,0.09713683,0.5018951,1,"Median gapfilled"
-8,"Coregonus_pidschian-67",602676,2017,0.05464372,0.5018951,1,"Median gapfilled"
-8,"Coregonus_sardinella-67",602678,2017,0.0002093325,0.5018951,1,"Median gapfilled"
-8,"Salvelinus_malma_malma-67",602691,2017,0.01944766,0.5018951,1,"Median gapfilled"
-8,"Atractoscion_nobilis-67",603578,2017,0.02313298,0.5018951,1,"Median gapfilled"
-8,"Sebastes_crameri-67",603962,2017,1.391697,0.5018951,1,"Median gapfilled"
-8,"Sebastes_goodei-67",603971,2017,0.05073332,0.5018951,1,"Median gapfilled"
-8,"Sebastes_melanops-67",603979,2017,0.6003258,0.5018951,1,"Median gapfilled"
-8,"Sebastes_paucispinis-67",603987,2017,0.009995595,0.06515715,0,NA
-8,"Sebastes_pinniger-67",603989,2017,0.08624427,0.7943522,0,NA
-8,"Sebastolobus_alascanus-67",604009,2017,3.248411,0.5018951,1,"Median gapfilled"
-8,"Pleurogrammus_monopterygius-67",604037,2017,66.7373,0.4797477,0,NA
-8,"Scorpaenichthys_marmoratus-67",604140,2017,1.10466,0.5018951,1,"Median gapfilled"
-8,"Citharichthys_sordidus-67",604215,2017,4.463475,0.5018951,1,"Median gapfilled"
-8,"Eopsetta_jordani-67",604237,2017,1.533099,0.5018951,1,"Median gapfilled"
-8,"Glyptocephalus_zachirus-67",604238,2017,2.239704,0.9844287,0,NA
-8,"Microstomus_pacificus-67",604247,2017,149.0935,0.415493,0,NA
-8,"Parophrys_vetulus-67",604248,2017,0.8587961,0.5018951,1,"Median gapfilled"
-8,"Platichthys_stellatus-67",604249,2017,0.3805064,0.5018951,1,"Median gapfilled"
-8,"Pleuronectes_quadrituberculatus-67",604250,2017,10.45767,0.5018951,1,"Median gapfilled"
-8,"Pleuronichthys_decurrens-67",604252,2017,0.02527181,0.5018951,1,"Median gapfilled"
-8,"Psettichthys_melanostictus-67",604255,2017,3.949288,0.5018951,1,"Median gapfilled"
-8,"Galeorhinus_galeus-67",604642,2017,0.0006261525,0.5018951,1,"Median gapfilled"
-8,"Sarda_chiliensis_lineolata-67",604796,2017,0.0002476176,0.5018951,1,"Median gapfilled"
-8,"Thunnus_orientalis-67",614290,2017,0.0007435259,0.2937354,0,NA
-8,"Lepidopsetta_bilineata-67",624237,2017,64.53368,0.298935,0,NA
-8,"Coregonus_laurettae-67",646941,2017,3.897166e-07,0.5018951,1,"Median gapfilled"
-8,"Saxidomus_gigantea-67",690064,2017,1723.914,0.3696843,0,NA
-8,"Metacarcinus_magister-67",690115,2017,3593.387,0.9257566,0,NA
-8,"Crassostrea_gigas-67",690283,2017,373.3395,0.9210073,0,NA
-8,"Panopea_abrupta-67",690284,2017,3805.375,0.5018951,1,"Median gapfilled"
-8,"Leukoma_staminea-67",690285,2017,0.4144663,0.5018951,1,"Median gapfilled"
-8,"Siliqua_patula-67",690286,2017,0.006208732,0.5018951,1,"Median gapfilled"
-8,"Cancer_productus-67",690287,2017,0.9711434,0.5018951,1,"Median gapfilled"
-8,"Mya_arenaria-67",690337,2017,3.047166,0.5018951,1,"Median gapfilled"
-8,"Patinopecten_caurinus-67",690429,2017,2.102005,0.5018951,1,"Median gapfilled"
-8,"Erimacrus_isenbeckii-67",690608,2017,0.0004783447,0.5018951,1,"Median gapfilled"
-8,"Paralithodes_camtschaticus-67",690621,2017,14.45236,0.5018951,1,"Median gapfilled"
-8,"Clinocardium_nuttallii-67",690651,2017,1.538457,0.5018951,1,"Median gapfilled"
-8,"Doryteuthis_opalescens-67",690658,2017,0.2152215,0.5018951,1,"Median gapfilled"
-8,"Pandalus_jordani-67",690660,2017,3.245375,0.8939258,0,NA
-8,"Upogebia_pugettensis-67",690665,2017,0.1499858,0.5018951,1,"Median gapfilled"
-8,"Enteroctopus_dofleini-67",690891,2017,0.0214206,0.5018951,1,"Median gapfilled"
+7,"Caranx_hippos-21",600071,2017,0.00055773684963711,0.501895147719719,1,"Median gapfilled"
+7,"Helicolenus_dactylopterus-21",600076,2017,0.00261082819726563,0.501895147719719,1,"Median gapfilled"
+7,"Istiophorus_albicans-21",600078,2017,17.9979026133433,0.015,0,NA
+7,"Lamna_nasus-21",600088,2017,554.326492546333,0.316640795482668,0,NA
+7,"Cetorhinus_maximus-21",600090,2017,1.45649761888697,0.501895147719719,1,"Median gapfilled"
+7,"Auxis_thazard-21",600094,2017,0.0118698486006663,0.501895147719719,1,"Median gapfilled"
+7,"Katsuwonus_pelamis-21",600107,2017,4.25318095174237,0.88,0,NA
+7,"Sarda_sarda-21",600115,2017,20.5530225275341,0.501895147719719,1,"Median gapfilled"
+7,"Scomber_scombrus-21",600118,2017,32973.463391979,0.501895147719719,1,"Median gapfilled"
+7,"Somniosus_microcephalus-21",600138,2017,0.210800102486535,0.501895147719719,1,"Median gapfilled"
+7,"Squalus_acanthias-21",600139,2017,1338.21887490598,1,0,NA
+7,"Thunnus_albacares-21",600143,2017,288.723778225193,0.654181818181812,0,NA
+7,"Thunnus_atlanticus-21",600144,2017,20.201111064168,0.501895147719719,1,"Median gapfilled"
+7,"Thunnus_obesus-21",600146,2017,105.191947111025,0.96787878787879,0,NA
+7,"Thunnus_thynnus-21",600147,2017,600.038253421191,0.46317715617716,0,NA
+7,"Ocyurus_chrysurus-21",600188,2017,6.31755001199949e-08,0.501895147719719,1,"Median gapfilled"
+7,"Makaira_nigricans-21",600216,2017,1.35360734952999,0.499454545454547,0,NA
+7,"Kajikia_albida-21",600219,2017,2.39392510224614,0.431393939393939,0,NA
+7,"Tetrapturus_pfluegeri-21",600220,2017,0.000223278910536082,0.501895147719719,1,"Median gapfilled"
+7,"Xiphias_gladius-21",600226,2017,1238.49382811299,0.91873426573426,0,NA
+7,"Alepocephalus_bairdii-21",600230,2017,5.52009445673395,0.501895147719719,1,"Median gapfilled"
+7,"Salmo_salar-21",600236,2017,6038.66595850033,0.501895147719719,1,"Median gapfilled"
+7,"Salvelinus_alpinus_alpinus-21",600247,2017,275.980612849611,0.501895147719719,1,"Median gapfilled"
+7,"Mallotus_villosus-21",600252,2017,48021.086326908,0.501895147719719,1,"Median gapfilled"
+7,"Osmerus_mordax_mordax-21",600253,2017,1086.46450477041,0.501895147719719,1,"Median gapfilled"
+7,"Anguilla_rostrata-21",600296,2017,539.088313215299,0.472604433600554,0,NA
+7,"Gadus_ogac-21",600309,2017,141.071578549525,0.501895147719719,1,"Median gapfilled"
+7,"Urophycis_chuss-21",600312,2017,673.726415762832,0.501895147719719,1,"Median gapfilled"
+7,"Urophycis_tenuis-21",600313,2017,9951.46198298233,0.764590347923658,0,NA
+7,"Microgadus_tomcod-21",600316,2017,62.254401240447,0.501895147719719,1,"Median gapfilled"
+7,"Merluccius_bilinearis-21",600323,2017,28037.3973432768,0.28771186440678,0,NA
+7,"Macrourus_berglax-21",600331,2017,1418.79878408344,0.324666281653455,0,NA
+7,"Coryphaenoides_rupestris-21",600332,2017,1357.66917931563,0.38732153141532,0,NA
+7,"Zenopsis_conchifer-21",600336,2017,0.915116108880366,0.501895147719719,1,"Median gapfilled"
+7,"Menidia_menidia-21",600339,2017,241.912795070961,0.501895147719719,1,"Median gapfilled"
+7,"Polyprion_americanus-21",600349,2017,0.578286559780318,0.501895147719719,1,"Median gapfilled"
+7,"Morone_saxatilis-21",600353,2017,1250.76480419942,1,0,NA
+7,"Morone_americana-21",600355,2017,1.63491232848467,0.949039260394765,0,NA
+7,"Centropristis_striata-21",600361,2017,0.0143638604256243,0.501895147719719,1,"Median gapfilled"
+7,"Lopholatilus_chamaeleonticeps-21",600362,2017,21.8812663430452,0.501509222966513,0,NA
+7,"Pomatomus_saltatrix-21",600364,2017,11.189401434764,0.8767842085016,0,NA
+7,"Trachurus_lathami-21",600369,2017,0.000192842896790202,0.501895147719719,1,"Median gapfilled"
+7,"Selar_crumenophthalmus-21",600387,2017,2.4831393790771e-05,0.501895147719719,1,"Median gapfilled"
+7,"Cynoscion_regalis-21",600406,2017,1.23396574952244,0.015,0,NA
+7,"Pogonias_cromis-21",600425,2017,0.313491285158515,0.501895147719719,1,"Median gapfilled"
+7,"Archosargus_probatocephalus-21",600441,2017,0.0665335939508671,0.501895147719719,1,"Median gapfilled"
+7,"Stenotomus_chrysops-21",600452,2017,14.8315000520272,0.96757389543693,0,NA
+7,"Tautoga_onitis-21",600458,2017,0.0229944830928832,0.456950533270468,0,NA
+7,"Zoarces_americanus-21",600480,2017,377.038430315005,0.440150770632767,0,NA
+7,"Peprilus_triacanthus-21",600492,2017,182.337832009454,0.8403881515421,0,NA
+7,"Sebastes_norvegicus-21",600501,2017,430.616895117387,0.501895147719719,1,"Median gapfilled"
+7,"Sebastes_mentella-21",600505,2017,1126.98781339708,0.403426308090332,0,NA
+7,"Reinhardtius_hippoglossoides-21",600516,2017,31386.3200742665,0.97005905179937,0,NA
+7,"Limanda_ferruginea-21",600521,2017,11632.6265802818,0.645000526356955,0,NA
+7,"Pseudopleuronectes_americanus-21",600524,2017,2742.79059022013,0.493472008217772,0,NA
+7,"Scophthalmus_aquosus-21",600530,2017,9.42010017856545,0.015,0,NA
+7,"Lophius_americanus-21",600532,2017,1567.05240129448,0.408558381914127,0,NA
+7,"Aphanopus_carbo-21",600646,2017,8.58996629192351,0.501895147719719,1,"Median gapfilled"
+7,"Centroscyllium_fabricii-21",600656,2017,822.804819773294,0.501895147719719,1,"Median gapfilled"
+7,"Centroscymnus_coelolepis-21",600662,2017,0.698535836431532,0.501895147719719,1,"Median gapfilled"
+7,"Carcharias_taurus-21",600747,2017,0.0864264310676626,0.501895147719719,1,"Median gapfilled"
+7,"Carcharodon_carcharias-21",600751,2017,0.0129517278031629,0.501895147719719,1,"Median gapfilled"
+7,"Isurus_oxyrinchus-21",600752,2017,139.349751583149,0.501895147719719,1,"Median gapfilled"
+7,"Isurus_paucus-21",600753,2017,0.902145598911643,0.501895147719719,1,"Median gapfilled"
+7,"Mugil_cephalus-21",600785,2017,0.381591422109667,0.501895147719719,1,"Median gapfilled"
+7,"Carcharhinus_longimanus-21",600875,2017,0.239541692726492,0.501895147719719,1,"Median gapfilled"
+7,"Carcharhinus_obscurus-21",600878,2017,0.017486980214588,0.501895147719719,1,"Median gapfilled"
+7,"Carcharhinus_plumbeus-21",600880,2017,0.132600793120838,0.501895147719719,1,"Median gapfilled"
+7,"Galeocerdo_cuvier-21",600886,2017,0.526160232640598,0.501895147719719,1,"Median gapfilled"
+7,"Prionace_glauca-21",600898,2017,1781.03294230317,1,0,NA
+7,"Rhizoprionodon_terraenovae-21",600905,2017,0.000128214850831536,0.501895147719719,1,"Median gapfilled"
+7,"Sphyrna_lewini-21",600912,2017,0.515401027806826,0.501895147719719,1,"Median gapfilled"
+7,"Sphyrna_mokarran-21",600914,2017,9.49749829759582e-05,0.501895147719719,1,"Median gapfilled"
+7,"Sphyrna_zygaena-21",600917,2017,0.0343196251966465,0.501895147719719,1,"Median gapfilled"
+7,"Naucrates_ductor-21",600998,2017,0.000569920811958431,0.501895147719719,1,"Median gapfilled"
+7,"Selene_vomer-21",601004,2017,5.62846525836283e-05,0.501895147719719,1,"Median gapfilled"
+7,"Seriola_dumerili-21",601005,2017,0.331228753382411,0.501895147719719,1,"Median gapfilled"
+7,"Ruvettus_pretiosus-21",601044,2017,0.990142431055432,0.501895147719719,1,"Median gapfilled"
+7,"Lampris_guttatus-21",601072,2017,0.00105292827449359,0.501895147719719,1,"Median gapfilled"
+7,"Lophius_gastrophysus-21",601078,2017,0.000446393523637569,0.501895147719719,1,"Median gapfilled"
+7,"Megalops_atlanticus-21",601079,2017,0.000666078473901204,0.501895147719719,1,"Median gapfilled"
+7,"Scomberesox_saurus_saurus-21",601084,2017,5.91550520801943e-06,0.501895147719719,1,"Median gapfilled"
+7,"Anchoa_hepsetus-21",601133,2017,2.23443014536242e-10,0.501895147719719,1,"Median gapfilled"
+7,"Sphoeroides_maculatus-21",601181,2017,0.00349885847498262,0.501895147719719,1,"Median gapfilled"
+7,"Sciaenops_ocellatus-21",601191,2017,0.00108067855394121,0.501895147719719,1,"Median gapfilled"
+7,"Mycteroperca_phenax-21",601213,2017,0.00403218875879965,0.501895147719719,1,"Median gapfilled"
+7,"Calamus_bajonado-21",601221,2017,0.0144005141905142,0.501895147719719,1,"Median gapfilled"
+7,"Sphyraena_barracuda-21",601235,2017,41.5445278889047,0.501895147719719,1,"Median gapfilled"
+7,"Sphyraena_guachancho-21",601236,2017,3.8181564715488e-07,0.501895147719719,1,"Median gapfilled"
+7,"Trichiurus_lepturus-21",601288,2017,0.00220829776723825,0.501895147719719,1,"Median gapfilled"
+7,"Paralichthys_dentatus-21",601338,2017,12.6937951692805,0.86135269566368,0,NA
+7,"Pollachius_virens-21",601343,2017,21187.7688007249,0.25,0,NA
+7,"Hippoglossus_hippoglossus-21",601371,2017,3309.51376138907,0.0386661807580149,0,NA
+7,"Melanogrammus_aeglefinus-21",601381,2017,26464.3575889688,0.015,0,NA
+7,"Molva_dypterygia-21",601383,2017,0.0979395541231854,0.501895147719719,1,"Median gapfilled"
+7,"Lutjanus_campechanus-21",601423,2017,2.03521135246153e-05,0.501895147719719,1,"Median gapfilled"
+7,"Etrumeus_sadina-21",601455,2017,8.38171908515921e-05,0.501895147719719,1,"Median gapfilled"
+7,"Alosa_aestivalis-21",601574,2017,2.24763367239392,0.501895147719719,1,"Median gapfilled"
+7,"Alosa_mediocris-21",601582,2017,0.0429937285023005,0.501895147719719,1,"Median gapfilled"
+7,"Alosa_pseudoharengus-21",601583,2017,6101.22301939755,0.501895147719719,1,"Median gapfilled"
+7,"Alosa_sapidissima-21",601584,2017,77.4841663631569,0.409013841676351,0,NA
+7,"Brevoortia_tyrannus-21",601592,2017,0.793411900956221,0.501895147719719,1,"Median gapfilled"
+7,"Dorosoma_cepedianum-21",601604,2017,0.195035760622686,0.501895147719719,1,"Median gapfilled"
+7,"Enchelyopus_cimbrius-21",601874,2017,5.03889968032711,0.501895147719719,1,"Median gapfilled"
+7,"Caranx_crysos-21",601933,2017,0.00112868905925637,0.501895147719719,1,"Median gapfilled"
+7,"Antimora_rostrata-21",602005,2017,3.99216780185118,0.501895147719719,1,"Median gapfilled"
+7,"Anarhichas_lupus-21",602501,2017,430.083909924154,0.390600306417746,0,NA
+7,"Petromyzon_marinus-21",602530,2017,3.86104575389364e-05,0.501895147719719,1,"Median gapfilled"
+7,"Ginglymostoma_cirratum-21",602532,2017,3.73835255945344e-05,0.501895147719719,1,"Median gapfilled"
+7,"Alopias_superciliosus-21",602534,2017,0.000649629914799036,0.501895147719719,1,"Median gapfilled"
+7,"Alopias_vulpinus-21",602535,2017,0.376441906324735,0.501895147719719,1,"Median gapfilled"
+7,"Leucoraja_erinacea-21",602557,2017,398.385639920541,0.501895147719719,1,"Median gapfilled"
+7,"Dipturus_laevis-21",602561,2017,0.00576787786928979,0.501895147719719,1,"Median gapfilled"
+7,"Dasyatis_centroura-21",602572,2017,0.00103017916810238,0.501895147719719,1,"Median gapfilled"
+7,"Tautogolabrus_adspersus-21",603672,2017,313.011667747019,0.501895147719719,1,"Median gapfilled"
+7,"Anarhichas_denticulatus-21",603810,2017,16.4792289544745,0.501895147719719,1,"Median gapfilled"
+7,"Anarhichas_minor-21",603811,2017,3.63890086409976,0.501895147719719,1,"Median gapfilled"
+7,"Hippoglossoides_platessoides-21",604239,2017,35165.5266602413,0.952715627851525,0,NA
+7,"Hoplostethus_mediterraneus_mediterraneus-21",604964,2017,0.139124169924335,0.501895147719719,1,"Median gapfilled"
+7,"Balistes_capriscus-21",607327,2017,0.0563932353119249,0.501895147719719,1,"Median gapfilled"
+7,"Gaidropsarus_ensis-21",608425,2017,6.20201150872414,0.501895147719719,1,"Median gapfilled"
+7,"Pandalus_montagui-21",690003,2017,203.590610402696,0.501895147719719,1,"Median gapfilled"
+7,"Crassostrea_virginica-21",690009,2017,2402.63443098789,0.501895147719719,1,"Median gapfilled"
+7,"Homarus_americanus-21",690010,2017,53592.6771164501,0.810714285714283,0,NA
+7,"Placopecten_magellanicus-21",690011,2017,63415.3574544971,0.883256792958285,0,NA
+7,"Ensis_directus-21",690029,2017,0.572828820639559,0.501895147719719,1,"Median gapfilled"
+7,"Argopecten_irradians-21",690030,2017,16.0535373210903,0.501895147719719,1,"Median gapfilled"
+7,"Cancer_irroratus-21",690031,2017,4452.20919321463,0.882793466192055,0,NA
+7,"Spisula_solidissima-21",690033,2017,1027.18759450977,0.862137156888525,0,NA
+7,"Callinectes_sapidus-21",690052,2017,102.649268410566,0.554395649673438,0,NA
+7,"Carcinus_maenas-21",690158,2017,0.188766451906458,0.501895147719719,1,"Median gapfilled"
+7,"Chlamys_islandica-21",690185,2017,2383.06913877121,0.32280906736409,0,NA
+7,"Cancer_borealis-21",690203,2017,36.2845454071824,0.94787948562031,0,NA
+7,"Doryteuthis_pealeii-21",690227,2017,58.6769882945452,1,0,NA
+7,"Pandalus_borealis-21",690269,2017,83082.2861561571,0.923120789137821,0,NA
+7,"Mercenaria_mercenaria-21",690270,2017,1156.06084216974,0.501895147719719,1,"Median gapfilled"
+7,"Illex_illecebrosus-21",690271,2017,4361.5116593413,0.484992820740702,0,NA
+7,"Arctica_islandica-21",690275,2017,528.394014759774,0.501895147719719,1,"Median gapfilled"
+7,"Chionoecetes_opilio-21",690313,2017,67288.1442027959,0.9759118836198,0,NA
+7,"Mactromeris_polynyma-21",690398,2017,20948.6202438166,0.501895147719719,1,"Median gapfilled"
+7,"Buccinum_undatum-21",690434,2017,481.781862919387,0.501895147719719,1,"Median gapfilled"
+7,"Strongylocentrotus_droebachiensis-21",690494,2017,1577.22684719123,0.922089365066365,0,NA
+7,"Marine_fishes_not_identified-67",100039,2017,135699.261722427,0.0501895147719719,1,"Median gapfilled"
+7,"Miscellaneous_marine_crustaceans-67",100047,2017,0.205673007971086,0.0501895147719719,1,"Median gapfilled"
+7,"Miscellaneous_aquatic_invertebrates-67",100077,2017,112.827955931345,0.0501895147719719,1,"Median gapfilled"
+7,"Marine_finfishes_not_identified-67",100139,2017,1.04660765626714,0.0501895147719719,1,"Median gapfilled"
+7,"Marine_groundfishes_not_identified-67",100239,2017,13488.7631545202,0.0501895147719719,1,"Median gapfilled"
+7,"Marine_pelagic_fishes_not_identified-67",100339,2017,9.16475513263814,0.0501895147719719,1,"Median gapfilled"
+7,"Mollusca-67",190195,2017,1540.62226273144,0.0501895147719719,1,"Median gapfilled"
+7,"Elasmobranchii-67",200004,2017,0.263230161653587,0.12547378692993,1,"Median gapfilled"
+7,"Chondrichthyes-67",200538,2017,0.0110195027846795,0.12547378692993,1,"Median gapfilled"
+7,"Cephalopoda-67",290002,2017,0.0899506770299618,0.12547378692993,1,"Median gapfilled"
+7,"Bivalvia-67",290004,2017,1011.5879686071,0.12547378692993,1,"Median gapfilled"
+7,"Scyphozoa-67",290013,2017,0.172699530185729,0.12547378692993,1,"Median gapfilled"
+7,"Malacostraca-67",290022,2017,7.78942135382553,0.12547378692993,1,"Median gapfilled"
+7,"Rajiformes-67",300014,2017,6.57826215573793,0.250947573859859,1,"Median gapfilled"
+7,"Clupeiformes-67",300028,2017,0.00398609314064838,0.250947573859859,1,"Median gapfilled"
+7,"Gadiformes-67",300044,2017,0.565116987378446,0.250947573859859,1,"Median gapfilled"
+7,"Scorpaeniformes-67",300059,2017,0.229124189999771,0.250947573859859,1,"Median gapfilled"
+7,"Perciformes-67",300060,2017,0.0515761367160312,0.250947573859859,1,"Median gapfilled"
+7,"Pleuronectiformes-67",300061,2017,5935.3525436123,0.250947573859859,1,"Median gapfilled"
+7,"Teuthida-67",390002,2017,2.25700899253915,0.250947573859859,1,"Median gapfilled"
+7,"Octopoda-67",390007,2017,0.000101627273435407,0.250947573859859,1,"Median gapfilled"
+7,"Decapoda-67",390013,2017,3863.00407518847,0.250947573859859,1,"Median gapfilled"
+7,"Lamnidae-67",400009,2017,6.18436155267403e-06,0.401516118175775,1,"Median gapfilled"
+7,"Rajidae-67",400019,2017,1080.58693680696,0.401516118175775,1,"Median gapfilled"
+7,"Clupeidae-67",400043,2017,883.251779700738,0.401516118175775,1,"Median gapfilled"
+7,"Salmonidae-67",400076,2017,0.200809566370651,0.401516118175775,1,"Median gapfilled"
+7,"Osmeridae-67",400080,2017,29.0717701319674,0.401516118175775,1,"Median gapfilled"
+7,"Gadidae-67",400183,2017,0.007239682414233,0.401516118175775,1,"Median gapfilled"
+7,"Hexagrammidae-67",400271,2017,0.0596600712936542,0.401516118175775,1,"Median gapfilled"
+7,"Cottidae-67",400277,2017,1.1258369779845,0.401516118175775,1,"Median gapfilled"
+7,"Carangidae-67",400314,2017,0.000627990688534724,0.401516118175775,1,"Median gapfilled"
+7,"Ammodytidae-67",400402,2017,7.61056596626703e-05,0.401516118175775,1,"Median gapfilled"
+7,"Scombridae-67",400416,2017,354.500455237831,0.401516118175775,1,"Median gapfilled"
+7,"Pleuronectidae-67",400440,2017,1.96744131719382,0.401516118175775,1,"Median gapfilled"
+7,"Engraulidae-67",400454,2017,2.06682919268273e-05,0.401516118175775,1,"Median gapfilled"
+7,"Triakidae-67",400488,2017,2.94364852343598e-05,0.401516118175775,1,"Median gapfilled"
+7,"Sebastidae-67",400573,2017,8458.22134442906,0.401516118175775,1,"Median gapfilled"
+7,"Octopodidae-67",490012,2017,3.30779765615185,0.401516118175775,1,"Median gapfilled"
+7,"Lithodidae-67",490036,2017,0.446615864332157,0.401516118175775,1,"Median gapfilled"
+7,"Penaeidae-67",490043,2017,0.0376611004873874,0.401516118175775,1,"Median gapfilled"
+7,"Pandalidae-67",490046,2017,0.660599119254831,0.401516118175775,1,"Median gapfilled"
+7,"Cardiidae-67",490058,2017,0.0408578866589623,0.401516118175775,1,"Median gapfilled"
+7,"Veneridae-67",490060,2017,41.1149698965146,0.401516118175775,1,"Median gapfilled"
+7,"Solenidae-67",490061,2017,0.00472004551787566,0.401516118175775,1,"Median gapfilled"
+7,"Brachyura-67",490097,2017,1238.22535804376,0.401516118175775,1,"Median gapfilled"
+7,"Ostreidae-67",490143,2017,1869.53439660791,0.401516118175775,1,"Median gapfilled"
+7,"Raja-67",500108,2017,119.669642104761,0.451705632947747,1,"Median gapfilled"
+7,"Ammodytes-67",500124,2017,0.000595435230583846,0.451705632947747,1,"Median gapfilled"
+7,"Isurus-67",500638,2017,0.00067439011443151,0.451705632947747,1,"Median gapfilled"
+7,"Myoxocephalus-67",500717,2017,0.00292934017674445,0.451705632947747,1,"Median gapfilled"
+7,"Sebastes-67",501135,2017,4.40238780965425,0.451705632947747,1,"Median gapfilled"
+7,"Porichthys-67",502224,2017,8.08076766333581e-06,0.451705632947747,1,"Median gapfilled"
+7,"Oncorhynchus-67",502724,2017,0.388268791653508,0.451705632947747,1,"Median gapfilled"
+7,"Coregonus-67",506253,2017,0.000371201543957409,0.451705632947747,1,"Median gapfilled"
+7,"Loligo-67",590010,2017,0.000395084623085834,0.451705632947747,1,"Median gapfilled"
+7,"Crassostrea-67",590014,2017,0.000872709701425071,0.451705632947747,1,"Median gapfilled"
+7,"Haliotis-67",590046,2017,38.6923156511848,0.451705632947747,1,"Median gapfilled"
+7,"Chionoecetes-67",590065,2017,24.2215116134466,0.451705632947747,1,"Median gapfilled"
+7,"Pandalus-67",590093,2017,0.0750792147113102,0.451705632947747,1,"Median gapfilled"
+7,"Ostrea-67",590112,2017,0.0256242565222565,0.451705632947747,1,"Median gapfilled"
+7,"Strongylocentrotus-67",590158,2017,0.247971035145207,0.451705632947747,1,"Median gapfilled"
+7,"Tresus-67",590269,2017,57.2029902374089,0.451705632947747,1,"Median gapfilled"
+7,"Katsuwonus_pelamis-67",600107,2017,0.0123366490992374,0.501895147719719,1,"Median gapfilled"
+7,"Scomber_japonicus-67",600117,2017,1.54274467255163,0.824548540044944,0,NA
+7,"Oncorhynchus_mykiss-67",600239,2017,54.3523756226042,0.501895147719719,1,"Median gapfilled"
+7,"Oncorhynchus_gorbuscha-67",600240,2017,27224.7568934929,0.690220396199869,0,NA
+7,"Oncorhynchus_keta-67",600241,2017,19733.2154195789,0.51509847143082,0,NA
+7,"Oncorhynchus_nerka-67",600243,2017,29234.0736162809,0.502281072472925,0,NA
+7,"Oncorhynchus_tshawytscha-67",600244,2017,9275.13977170262,0.457562865598085,0,NA
+7,"Oncorhynchus_kisutch-67",600245,2017,10332.8064686078,0.501895147719719,1,"Median gapfilled"
+7,"Mallotus_villosus-67",600252,2017,0.00317023620278852,0.501895147719719,1,"Median gapfilled"
+7,"Hypomesus_pretiosus-67",600255,2017,2.67912634916427,0.501895147719719,1,"Median gapfilled"
+7,"Thaleichthys_pacificus-67",600256,2017,27.8570371641807,0.501895147719719,1,"Median gapfilled"
+7,"Cololabis_saira-67",600303,2017,0.275141563091,0.501895147719719,1,"Median gapfilled"
+7,"Gadus_macrocephalus-67",600308,2017,3811.49625745274,0.782877772066236,0,NA
+7,"Theragra_chalcogramma-67",600318,2017,5029.32690419976,0.975972104818265,0,NA
+7,"Trachurus_symmetricus-67",600368,2017,1.16335066322395,0.501895147719719,1,"Median gapfilled"
+7,"Sebastes_entomelas-67",600502,2017,36.3175431401722,0.322372681271716,0,NA
+7,"Sebastes_flavidus-67",600503,2017,1.33888313008663,0.444798164721058,0,NA
+7,"Sebastes_alutus-67",600504,2017,6337.66431077234,0.744621778787695,0,NA
+7,"Ophiodon_elongatus-67",600509,2017,6107.47067814838,0.452076765748172,0,NA
+7,"Anoplopoma_fimbria-67",600512,2017,3991.88538999208,0.896661432420794,0,NA
+7,"Hippoglossus_stenolepis-67",600514,2017,9984.08639356215,0.797356088352035,0,NA
+7,"Reinhardtius_hippoglossoides-67",600516,2017,1.52562535095833,0.439053348575395,0,NA
+7,"Atheresthes_stomias-67",600517,2017,592.217869956904,0.25,0,NA
+7,"Atheresthes_evermanni-67",600518,2017,0.0227344643103377,0.501895147719719,1,"Median gapfilled"
+7,"Hippoglossoides_elassodon-67",600519,2017,10.7929729888881,1,0,NA
+7,"Limanda_aspera-67",600520,2017,110.858429394212,0.9583371615271,0,NA
+7,"Isurus_oxyrinchus-67",600752,2017,3.13310186587465e-05,0.501895147719719,1,"Median gapfilled"
+7,"Prionace_glauca-67",600898,2017,0.0541598951281216,0.501895147719719,1,"Median gapfilled"
+7,"Sardinops_sagax-67",601477,2017,242.248201069659,0.668713210556762,0,NA
+7,"Clupea_pallasii_pallasii-67",601520,2017,26808.4459440932,0.501895147719719,1,"Median gapfilled"
+7,"Alosa_sapidissima-67",601584,2017,1.28530714249528,0.501895147719719,1,"Median gapfilled"
+7,"Engraulis_mordax-67",601664,2017,1.5797523544734,0.501895147719719,1,"Median gapfilled"
+7,"Mola_mola-67",601732,2017,0.00103490249273326,0.501895147719719,1,"Median gapfilled"
+7,"Microgadus_proximus-67",601879,2017,0.0508049733052673,0.501895147719719,1,"Median gapfilled"
+7,"Alopias_vulpinus-67",602535,2017,0.0154010023859512,0.501895147719719,1,"Median gapfilled"
+7,"Somniosus_pacificus-67",602544,2017,0.00101289622833349,0.501895147719719,1,"Median gapfilled"
+7,"Raja_stellulata-67",602570,2017,7.5548518037837e-06,0.501895147719719,1,"Median gapfilled"
+7,"Hydrolagus_colliei-67",602589,2017,0.0971368296750855,0.501895147719719,1,"Median gapfilled"
+7,"Coregonus_pidschian-67",602676,2017,0.0546437217753637,0.501895147719719,1,"Median gapfilled"
+7,"Coregonus_sardinella-67",602678,2017,0.00020933251948502,0.501895147719719,1,"Median gapfilled"
+7,"Salvelinus_malma_malma-67",602691,2017,0.0194476554821008,0.501895147719719,1,"Median gapfilled"
+7,"Atractoscion_nobilis-67",603578,2017,0.0231329835247738,0.501895147719719,1,"Median gapfilled"
+7,"Sebastes_crameri-67",603962,2017,1.39169668643018,0.501895147719719,1,"Median gapfilled"
+7,"Sebastes_goodei-67",603971,2017,0.0507333168376761,0.501895147719719,1,"Median gapfilled"
+7,"Sebastes_melanops-67",603979,2017,0.600325795655366,0.501895147719719,1,"Median gapfilled"
+7,"Sebastes_paucispinis-67",603987,2017,0.00999559472902155,0.0651571500033175,0,NA
+7,"Sebastes_pinniger-67",603989,2017,0.0862442657275414,0.79435222445786,0,NA
+7,"Sebastolobus_alascanus-67",604009,2017,3.24841140231323,0.501895147719719,1,"Median gapfilled"
+7,"Pleurogrammus_monopterygius-67",604037,2017,66.7373046197978,0.479747726393054,0,NA
+7,"Scorpaenichthys_marmoratus-67",604140,2017,1.10465965268668,0.501895147719719,1,"Median gapfilled"
+7,"Citharichthys_sordidus-67",604215,2017,4.46347476941949,0.501895147719719,1,"Median gapfilled"
+7,"Eopsetta_jordani-67",604237,2017,1.53309904644726,0.501895147719719,1,"Median gapfilled"
+7,"Glyptocephalus_zachirus-67",604238,2017,2.23970365254742,0.984428656612225,0,NA
+7,"Microstomus_pacificus-67",604247,2017,149.093513363886,0.41549299540155,0,NA
+7,"Parophrys_vetulus-67",604248,2017,0.858796056010767,0.501895147719719,1,"Median gapfilled"
+7,"Platichthys_stellatus-67",604249,2017,0.380506400858383,0.501895147719719,1,"Median gapfilled"
+7,"Pleuronectes_quadrituberculatus-67",604250,2017,10.4576719831851,0.501895147719719,1,"Median gapfilled"
+7,"Pleuronichthys_decurrens-67",604252,2017,0.0252718146728925,0.501895147719719,1,"Median gapfilled"
+7,"Psettichthys_melanostictus-67",604255,2017,3.94928757086347,0.501895147719719,1,"Median gapfilled"
+7,"Galeorhinus_galeus-67",604642,2017,0.000626152499121986,0.501895147719719,1,"Median gapfilled"
+7,"Sarda_chiliensis_lineolata-67",604796,2017,0.000247617604948008,0.501895147719719,1,"Median gapfilled"
+7,"Thunnus_orientalis-67",614290,2017,0.000743525932013682,0.293735431235426,0,NA
+7,"Lepidopsetta_bilineata-67",624237,2017,64.5336824476742,0.298935043309395,0,NA
+7,"Coregonus_laurettae-67",646941,2017,3.8971657437714e-07,0.501895147719719,1,"Median gapfilled"
+7,"Saxidomus_gigantea-67",690064,2017,1723.91428571429,0.369684272005794,0,NA
+7,"Metacarcinus_magister-67",690115,2017,3593.38672334092,0.925756618977045,0,NA
+7,"Crassostrea_gigas-67",690283,2017,373.33947566972,0.9210072548581,0,NA
+7,"Panopea_abrupta-67",690284,2017,3805.37529109558,0.501895147719719,1,"Median gapfilled"
+7,"Leukoma_staminea-67",690285,2017,0.414466347886863,0.501895147719719,1,"Median gapfilled"
+7,"Siliqua_patula-67",690286,2017,0.00620873240009645,0.501895147719719,1,"Median gapfilled"
+7,"Cancer_productus-67",690287,2017,0.971143376160208,0.501895147719719,1,"Median gapfilled"
+7,"Mya_arenaria-67",690337,2017,3.04716635219013,0.501895147719719,1,"Median gapfilled"
+7,"Patinopecten_caurinus-67",690429,2017,2.10200529476192,0.501895147719719,1,"Median gapfilled"
+7,"Erimacrus_isenbeckii-67",690608,2017,0.000478344730794552,0.501895147719719,1,"Median gapfilled"
+7,"Paralithodes_camtschaticus-67",690621,2017,14.4523649028145,0.501895147719719,1,"Median gapfilled"
+7,"Clinocardium_nuttallii-67",690651,2017,1.53845666767092,0.501895147719719,1,"Median gapfilled"
+7,"Doryteuthis_opalescens-67",690658,2017,0.215221451999589,0.501895147719719,1,"Median gapfilled"
+7,"Pandalus_jordani-67",690660,2017,3.24537532754591,0.893925767406305,0,NA
+7,"Upogebia_pugettensis-67",690665,2017,0.149985829355002,0.501895147719719,1,"Median gapfilled"
+7,"Enteroctopus_dofleini-67",690891,2017,0.0214205973744733,0.501895147719719,1,"Median gapfilled"
+8,"Marine_fishes_not_identified-18",100039,2017,10.796293655604,0.0501895147719719,1,"Median gapfilled"
+8,"Miscellaneous_marine_crustaceans-18",100047,2017,0.520555911771946,0.0501895147719719,1,"Median gapfilled"
+8,"Miscellaneous_aquatic_invertebrates-18",100077,2017,0.000728931645675895,0.0501895147719719,1,"Median gapfilled"
+8,"Marine_finfishes_not_identified-18",100139,2017,0.00212466054935117,0.0501895147719719,1,"Median gapfilled"
+8,"Marine_groundfishes_not_identified-18",100239,2017,0.0137277016139469,0.0501895147719719,1,"Median gapfilled"
+8,"Marine_pelagic_fishes_not_identified-18",100339,2017,1.20196299167404e-05,0.0501895147719719,1,"Median gapfilled"
+8,"Mollusca-18",190195,2017,0.983961189637305,0.0501895147719719,1,"Median gapfilled"
+8,"Elasmobranchii-18",200004,2017,0.00507974843162183,0.12547378692993,1,"Median gapfilled"
+8,"Chondrichthyes-18",200538,2017,0.00112587950056448,0.12547378692993,1,"Median gapfilled"
+8,"Bivalvia-18",290004,2017,0.0924965168048042,0.12547378692993,1,"Median gapfilled"
+8,"Scyphozoa-18",290013,2017,0.00142498005918472,0.12547378692993,1,"Median gapfilled"
+8,"Malacostraca-18",290022,2017,0.010815438985294,0.12547378692993,1,"Median gapfilled"
+8,"Gadiformes-18",300044,2017,0.00200442618305178,0.250947573859859,1,"Median gapfilled"
+8,"Scorpaeniformes-18",300059,2017,0.00284978038371233,0.250947573859859,1,"Median gapfilled"
+8,"Perciformes-18",300060,2017,3.83741726924959e-05,0.250947573859859,1,"Median gapfilled"
+8,"Pleuronectiformes-18",300061,2017,0.0459480022866953,0.250947573859859,1,"Median gapfilled"
+8,"Teuthida-18",390002,2017,0.000142476330443908,0.250947573859859,1,"Median gapfilled"
+8,"Rajidae-18",400019,2017,0.239029473493242,0.401516118175775,1,"Median gapfilled"
+8,"Salmonidae-18",400076,2017,0.000383216583457357,0.401516118175775,1,"Median gapfilled"
+8,"Osmeridae-18",400080,2017,0.214865426365143,0.401516118175775,1,"Median gapfilled"
+8,"Gadidae-18",400183,2017,30.4842760627985,0.401516118175775,1,"Median gapfilled"
+8,"Cottidae-18",400277,2017,0.804581830411271,0.401516118175775,1,"Median gapfilled"
+8,"Anarhichadidae-18",400396,2017,3.63875407616364,0.401516118175775,1,"Median gapfilled"
+8,"Pleuronectidae-18",400440,2017,0.0271865960477923,0.401516118175775,1,"Median gapfilled"
+8,"Ommastrephidae-18",490004,2017,8.60194905606666e-09,0.401516118175775,1,"Median gapfilled"
+8,"Mactridae-18",490063,2017,2.1089701496111,0.401516118175775,1,"Median gapfilled"
+8,"Salmo-18",500136,2017,0.408832175825684,0.451705632947747,1,"Median gapfilled"
+8,"Gaidropsarus-18",500686,2017,7.21387713048792e-07,0.451705632947747,1,"Median gapfilled"
+8,"Myoxocephalus-18",500717,2017,0.0233972363037714,0.451705632947747,1,"Median gapfilled"
+8,"Sebastes-18",501135,2017,1.78186266282771,0.451705632947747,1,"Median gapfilled"
+8,"Salvelinus-18",501410,2017,1.24797167649185,0.451705632947747,1,"Median gapfilled"
+8,"Lycodes-18",501486,2017,0.0875546236083981,0.451705632947747,1,"Median gapfilled"
+8,"Oncorhynchus-18",502724,2017,0.000252357469634547,0.451705632947747,1,"Median gapfilled"
+8,"Anarhichas-18",505897,2017,14.6555466368415,0.451705632947747,1,"Median gapfilled"
+8,"Coregonus-18",506253,2017,13.1202462996495,0.451705632947747,1,"Median gapfilled"
+8,"Chionoecetes-18",590065,2017,0.0902298547675924,0.451705632947747,1,"Median gapfilled"
+8,"Pandalus-18",590093,2017,0.545390760270516,0.451705632947747,1,"Median gapfilled"
+8,"Busycon-18",590110,2017,0.440752116752928,0.451705632947747,1,"Median gapfilled"
+8,"Strongylocentrotus-18",590158,2017,0.319993066868522,0.451705632947747,1,"Median gapfilled"
+8,"Clupea_harengus-18",600024,2017,0.263066674980516,0.501895147719719,1,"Median gapfilled"
+8,"Glyptocephalus_cynoglossus-18",600026,2017,0.0096022414547067,0.501895147719719,1,"Median gapfilled"
+8,"Cyclopterus_lumpus-18",600062,2017,0.00027495128262716,0.501895147719719,1,"Median gapfilled"
+8,"Gadus_morhua-18",600069,2017,1.84944551710547,0.501895147719719,1,"Median gapfilled"
+8,"Somniosus_microcephalus-18",600138,2017,0.00287603105790819,0.501895147719719,1,"Median gapfilled"
+8,"Thunnus_thynnus-18",600147,2017,0.000301370276034037,0.46317715617716,0,NA
+8,"Salmo_salar-18",600236,2017,34.9035588146542,0.501895147719719,1,"Median gapfilled"
+8,"Oncorhynchus_gorbuscha-18",600240,2017,0.0732061095501387,0.501895147719719,1,"Median gapfilled"
+8,"Salvelinus_alpinus_alpinus-18",600247,2017,813.190044798698,0.46496600281935,0,NA
+8,"Mallotus_villosus-18",600252,2017,3.92637687024523,0.501895147719719,1,"Median gapfilled"
+8,"Osmerus_mordax_mordax-18",600253,2017,0.0902176956977016,0.501895147719719,1,"Median gapfilled"
+8,"Gadus_ogac-18",600309,2017,0.263559485087969,0.501895147719719,1,"Median gapfilled"
+8,"Eleginus_gracilis-18",600315,2017,0.0596383646586866,0.501895147719719,1,"Median gapfilled"
+8,"Boreogadus_saida-18",600319,2017,0.0707394270052717,0.501895147719719,1,"Median gapfilled"
+8,"Macrourus_berglax-18",600331,2017,1.37575332223507,0.501895147719719,1,"Median gapfilled"
+8,"Sebastes_mentella-18",600505,2017,0.048280392309025,0.501895147719719,1,"Median gapfilled"
+8,"Reinhardtius_hippoglossoides-18",600516,2017,0.853683731224209,0.501895147719719,1,"Median gapfilled"
+8,"Prionace_glauca-18",600898,2017,1.21887185525336e-05,0.501895147719719,1,"Median gapfilled"
+8,"Pollachius_virens-18",601343,2017,1.22180686179359,0.501895147719719,1,"Median gapfilled"
+8,"Hippoglossus_hippoglossus-18",601371,2017,0.00244938733123118,0.501895147719719,1,"Median gapfilled"
+8,"Clupea_pallasii_pallasii-18",601520,2017,2.42829819285236,0.501895147719719,1,"Median gapfilled"
+8,"Coregonus_autumnalis-18",602669,2017,0.112152242386732,0.463705745977655,0,NA
+8,"Coregonus_nasus-18",602674,2017,36.9854295769145,0.477257967362234,0,NA
+8,"Coregonus_sardinella-18",602678,2017,0.00496007616016633,0.501895147719719,1,"Median gapfilled"
+8,"Salvelinus_malma_malma-18",602691,2017,1.28495658193828,0.501895147719719,1,"Median gapfilled"
+8,"Stenodus_leucichthys-18",602692,2017,13.1211790355042,0.501895147719719,1,"Median gapfilled"
+8,"Anarhichas_denticulatus-18",603810,2017,0.0946091554701144,0.501895147719719,1,"Median gapfilled"
+8,"Myoxocephalus_quadricornis-18",604122,2017,0.00598338263635969,0.501895147719719,1,"Median gapfilled"
+8,"Platichthys_stellatus-18",604249,2017,0.115458017345647,0.501895147719719,1,"Median gapfilled"
+8,"Coregonus_laurettae-18",646941,2017,0.000506822040110069,0.501895147719719,1,"Median gapfilled"
+8,"Pandalus_borealis-18",690269,2017,2.26857336070573,0.501895147719719,1,"Median gapfilled"
+8,"Illex_illecebrosus-18",690271,2017,0.000658900194051538,0.501895147719719,1,"Median gapfilled"
+8,"Chionoecetes_opilio-18",690313,2017,2.17388140981946,0.501895147719719,1,"Median gapfilled"
+8,"Mactromeris_polynyma-18",690398,2017,10.2754002309506,0.501895147719719,1,"Median gapfilled"
+8,"Buccinum_undatum-18",690434,2017,0.201187124888584,0.501895147719719,1,"Median gapfilled"
+8,"Strongylocentrotus_droebachiensis-18",690494,2017,0.0614790621569544,0.501895147719719,1,"Median gapfilled"
+8,"Marine_fishes_not_identified-21",100039,2017,45419.5051025384,0.0501895147719719,1,"Median gapfilled"
+8,"Miscellaneous_marine_crustaceans-21",100047,2017,875.194001927283,0.0501895147719719,1,"Median gapfilled"
+8,"Miscellaneous_aquatic_invertebrates-21",100077,2017,20.5150036834084,0.0501895147719719,1,"Median gapfilled"
+8,"Marine_finfishes_not_identified-21",100139,2017,187.704438764189,0.0501895147719719,1,"Median gapfilled"
+8,"Marine_groundfishes_not_identified-21",100239,2017,1.48269127776609,0.0501895147719719,1,"Median gapfilled"
+8,"Marine_pelagic_fishes_not_identified-21",100339,2017,1779.36076063179,0.0501895147719719,1,"Median gapfilled"
+8,"Mollusca-21",190195,2017,7697.03112098867,0.0501895147719719,1,"Median gapfilled"
+8,"Elasmobranchii-21",200004,2017,122.935189138109,0.12547378692993,1,"Median gapfilled"
+8,"Chondrichthyes-21",200538,2017,171.293041562396,0.12547378692993,1,"Median gapfilled"
+8,"Bivalvia-21",290004,2017,1279.62110090111,0.12547378692993,1,"Median gapfilled"
+8,"Gastropoda-21",290006,2017,38.7519434321865,0.12547378692993,1,"Median gapfilled"
+8,"Scyphozoa-21",290013,2017,6.03202942029421,0.12547378692993,1,"Median gapfilled"
+8,"Malacostraca-21",290022,2017,5048.255462203,0.12547378692993,1,"Median gapfilled"
+8,"Carcharhiniformes-21",300008,2017,0.250293327590937,0.250947573859859,1,"Median gapfilled"
+8,"Squaliformes-21",300009,2017,7.76610929665386,0.250947573859859,1,"Median gapfilled"
+8,"Rajiformes-21",300014,2017,29.5060713731304,0.250947573859859,1,"Median gapfilled"
+8,"Clupeiformes-21",300028,2017,124.226769719198,0.250947573859859,1,"Median gapfilled"
+8,"Scombroidea-21",300036,2017,19.9236477915138,0.250947573859859,1,"Median gapfilled"
+8,"Gadiformes-21",300044,2017,5.94831845462647,0.250947573859859,1,"Median gapfilled"
+8,"Scorpaeniformes-21",300059,2017,816.741903984189,0.250947573859859,1,"Median gapfilled"
+8,"Perciformes-21",300060,2017,13.7787853710619,0.250947573859859,1,"Median gapfilled"
+8,"Pleuronectiformes-21",300061,2017,2431.40153903235,0.250947573859859,1,"Median gapfilled"
+8,"Teuthida-21",390002,2017,535.03984237657,0.250947573859859,1,"Median gapfilled"
+8,"Octopoda-21",390007,2017,1.84540093248002,0.250947573859859,1,"Median gapfilled"
+8,"Decapoda-21",390013,2017,8.29685755467004,0.250947573859859,1,"Median gapfilled"
+8,"Myxinidae-21",400002,2017,23.3784956234025,0.401516118175775,1,"Median gapfilled"
+8,"Lamnidae-21",400009,2017,0.080262943297273,0.401516118175775,1,"Median gapfilled"
+8,"Carcharhinidae-21",400011,2017,0.234226349493193,0.401516118175775,1,"Median gapfilled"
+8,"Sphyrnidae-21",400012,2017,0.0198593666240931,0.401516118175775,1,"Median gapfilled"
+8,"Squalidae-21",400013,2017,292.65431164849,0.401516118175775,1,"Median gapfilled"
+8,"Rajidae-21",400019,2017,1402.01895808413,0.401516118175775,1,"Median gapfilled"
+8,"Myliobatidae-21",400022,2017,0.0177123124174163,0.401516118175775,1,"Median gapfilled"
+8,"Clupeidae-21",400043,2017,2.02597728766221,0.401516118175775,1,"Median gapfilled"
+8,"Salmonidae-21",400076,2017,5.75789088917335,0.401516118175775,1,"Median gapfilled"
+8,"Osmeridae-21",400080,2017,868.673818456183,0.401516118175775,1,"Median gapfilled"
+8,"Gadidae-21",400183,2017,5.18118327467739,0.401516118175775,1,"Median gapfilled"
+8,"Batrachoididae-21",400189,2017,0.00948325831697058,0.401516118175775,1,"Median gapfilled"
+8,"Lophiidae-21",400190,2017,112.095422799056,0.401516118175775,1,"Median gapfilled"
+8,"Trachichthyidae-21",400236,2017,3.92798149676795e-05,0.401516118175775,1,"Median gapfilled"
+8,"Cottidae-21",400277,2017,2044.57807578752,0.401516118175775,1,"Median gapfilled"
+8,"Rachycentridae-21",400312,2017,0.183168107276815,0.401516118175775,1,"Median gapfilled"
+8,"Echeneidae-21",400313,2017,0.00029663488524232,0.401516118175775,1,"Median gapfilled"
+8,"Carangidae-21",400314,2017,0.0183846922013541,0.401516118175775,1,"Median gapfilled"
+8,"Lutjanidae-21",400323,2017,0.00414621642808034,0.401516118175775,1,"Median gapfilled"
+8,"Haemulidae-21",400327,2017,7.13295532360762e-05,0.401516118175775,1,"Median gapfilled"
+8,"Sparidae-21",400330,2017,25.7697452226634,0.401516118175775,1,"Median gapfilled"
+8,"Sciaenidae-21",400331,2017,0.201724592346014,0.401516118175775,1,"Median gapfilled"
+8,"Mugilidae-21",400359,2017,0.316242411506768,0.401516118175775,1,"Median gapfilled"
+8,"Anarhichadidae-21",400396,2017,33.0200092487654,0.401516118175775,1,"Median gapfilled"
+8,"Scombridae-21",400416,2017,3.91318726442667,0.401516118175775,1,"Median gapfilled"
+8,"Istiophoridae-21",400419,2017,0.0147169155610726,0.401516118175775,1,"Median gapfilled"
+8,"Centrolophidae-21",400421,2017,0.000310316957752484,0.401516118175775,1,"Median gapfilled"
+8,"Stromateidae-21",400425,2017,0.000130545360988386,0.401516118175775,1,"Median gapfilled"
+8,"Pleuronectidae-21",400440,2017,759.533371360193,0.401516118175775,1,"Median gapfilled"
+8,"Balistidae-21",400445,2017,0.0190936265682532,0.401516118175775,1,"Median gapfilled"
+8,"Ostraciidae-21",400446,2017,0.000660485891230774,0.401516118175775,1,"Median gapfilled"
+8,"Engraulidae-21",400454,2017,0.0399607169241755,0.401516118175775,1,"Median gapfilled"
+8,"Paralichthyidae-21",400514,2017,0.0208286070745082,0.401516118175775,1,"Median gapfilled"
+8,"Ommastrephidae-21",490004,2017,0.168193332796237,0.401516118175775,1,"Median gapfilled"
+8,"Littorinidae-21",490023,2017,6.48614986248857,0.401516118175775,1,"Median gapfilled"
+8,"Lithodidae-21",490036,2017,718.309517733661,0.401516118175775,1,"Median gapfilled"
+8,"Penaeidae-21",490043,2017,3.09161334262598e-06,0.401516118175775,1,"Median gapfilled"
+8,"Pandalidae-21",490046,2017,184.340464056987,0.401516118175775,1,"Median gapfilled"
+8,"Pectinidae-21",490055,2017,22.6872058800864,0.401516118175775,1,"Median gapfilled"
+8,"Mactridae-21",490063,2017,15122.8309396288,0.401516118175775,1,"Median gapfilled"
+8,"Brachyura-21",490097,2017,1664.73714289627,0.401516118175775,1,"Median gapfilled"
+8,"Paralichthys-21",500048,2017,0.0459383027773187,0.451705632947747,1,"Median gapfilled"
+8,"Squalus-21",500107,2017,703.311077327897,0.451705632947747,1,"Median gapfilled"
+8,"Salmo-21",500136,2017,5176.09491971934,0.451705632947747,1,"Median gapfilled"
+8,"Mugil-21",500152,2017,0.003543496104304,0.451705632947747,1,"Median gapfilled"
+8,"Coryphaenoides-21",500158,2017,138.560703355176,0.451705632947747,1,"Median gapfilled"
+8,"Alosa-21",500352,2017,22.9980488045529,0.451705632947747,1,"Median gapfilled"
+8,"Mola-21",500358,2017,0.0653644535703105,0.451705632947747,1,"Median gapfilled"
+8,"Sphyraena-21",500372,2017,0.00473625899421564,0.451705632947747,1,"Median gapfilled"
+8,"Isurus-21",500638,2017,0.134048720784404,0.451705632947747,1,"Median gapfilled"
+8,"Alopias-21",500639,2017,9.89353704207597,0.451705632947747,1,"Median gapfilled"
+8,"Etmopterus-21",500642,2017,2.53130600962286e-07,0.451705632947747,1,"Median gapfilled"
+8,"Merluccius-21",500654,2017,425.862455896247,0.451705632947747,1,"Median gapfilled"
+8,"Gaidropsarus-21",500686,2017,1.03628409481375,0.451705632947747,1,"Median gapfilled"
+8,"Sphyrna-21",500693,2017,1.26902417515445,0.451705632947747,1,"Median gapfilled"
+8,"Myoxocephalus-21",500717,2017,606.323147410623,0.451705632947747,1,"Median gapfilled"
+8,"Carcharhinus-21",500816,2017,0.568899864246902,0.451705632947747,1,"Median gapfilled"
+8,"Aluterus-21",500854,2017,0.00015599694015877,0.451705632947747,1,"Median gapfilled"
+8,"Serranus-21",500901,2017,0.0172837582281299,0.451705632947747,1,"Median gapfilled"
+8,"Dorosoma-21",500983,2017,6.11282440571877e-07,0.451705632947747,1,"Median gapfilled"
+8,"Beryx-21",501129,2017,126.05878665291,0.451705632947747,1,"Median gapfilled"
+8,"Sebastes-21",501135,2017,66823.8125989775,0.451705632947747,1,"Median gapfilled"
+8,"Peprilus-21",501164,2017,0.0232280240107305,0.451705632947747,1,"Median gapfilled"
+8,"Salvelinus-21",501410,2017,4561.93275096775,0.451705632947747,1,"Median gapfilled"
+8,"Lycodes-21",501486,2017,469.523795342712,0.451705632947747,1,"Median gapfilled"
+8,"Thunnus-21",501905,2017,0.135663597767177,0.451705632947747,1,"Median gapfilled"
+8,"Cynoscion-21",502794,2017,3.54708642040881,0.451705632947747,1,"Median gapfilled"
+8,"Mycteroperca-21",503028,2017,0.000410220903262991,0.451705632947747,1,"Median gapfilled"
+8,"Anarhichas-21",505897,2017,3958.28186356965,0.451705632947747,1,"Median gapfilled"
+8,"Sphoeroides-21",509125,2017,0.000235998718565802,0.451705632947747,1,"Median gapfilled"
+8,"Octopus-21",590013,2017,0.00224467257886779,0.451705632947747,1,"Median gapfilled"
+8,"Littorina-21",590049,2017,227.41509175,0.451705632947747,1,"Median gapfilled"
+8,"Chionoecetes-21",590065,2017,1204.95220722918,0.451705632947747,1,"Median gapfilled"
+8,"Geryon-21",590067,2017,14.6219820008084,0.451705632947747,1,"Median gapfilled"
+8,"Pandalus-21",590093,2017,13915.8442586742,0.451705632947747,1,"Median gapfilled"
+8,"Busycon-21",590110,2017,2524.96290040737,0.451705632947747,1,"Median gapfilled"
+8,"Strongylocentrotus-21",590158,2017,1641.52724660422,0.451705632947747,1,"Median gapfilled"
+8,"Coryphaena_hippurus-21",600006,2017,5.1374903135469,0.501895147719719,1,"Median gapfilled"
+8,"Clupea_harengus-21",600024,2017,201148.839059527,0.52152576722643,0,NA
+8,"Glyptocephalus_cynoglossus-21",600026,2017,7100.30984645776,0.149746483598595,0,NA
+8,"Micromesistius_poutassou-21",600031,2017,2.52265435721112,0.501895147719719,1,"Median gapfilled"
+8,"Molva_molva-21",600033,2017,4.26437889283932,0.501895147719719,1,"Median gapfilled"
+8,"Brosme_brosme-21",600051,2017,2617.13072981701,0.44590926715777,0,NA
+8,"Cyclopterus_lumpus-21",600062,2017,336.21905461113,0.456033721948091,0,NA
+8,"Gadus_morhua-21",600069,2017,251267.567513427,0.0734120726077067,0,NA
+8,"Caranx_hippos-21",600071,2017,0.00055773684963711,0.501895147719719,1,"Median gapfilled"
+8,"Helicolenus_dactylopterus-21",600076,2017,0.00261082819726563,0.501895147719719,1,"Median gapfilled"
+8,"Istiophorus_albicans-21",600078,2017,17.9979026133433,0.015,0,NA
+8,"Lamna_nasus-21",600088,2017,554.326492546333,0.316640795482668,0,NA
+8,"Cetorhinus_maximus-21",600090,2017,1.45649761888697,0.501895147719719,1,"Median gapfilled"
+8,"Auxis_thazard-21",600094,2017,0.0118698486006663,0.501895147719719,1,"Median gapfilled"
+8,"Katsuwonus_pelamis-21",600107,2017,4.25318095174237,0.88,0,NA
+8,"Sarda_sarda-21",600115,2017,20.5530225275341,0.501895147719719,1,"Median gapfilled"
+8,"Scomber_scombrus-21",600118,2017,32973.463391979,0.501895147719719,1,"Median gapfilled"
+8,"Somniosus_microcephalus-21",600138,2017,0.210800102486535,0.501895147719719,1,"Median gapfilled"
+8,"Squalus_acanthias-21",600139,2017,1338.21887490598,1,0,NA
+8,"Thunnus_albacares-21",600143,2017,288.723778225193,0.654181818181812,0,NA
+8,"Thunnus_atlanticus-21",600144,2017,20.201111064168,0.501895147719719,1,"Median gapfilled"
+8,"Thunnus_obesus-21",600146,2017,105.191947111025,0.96787878787879,0,NA
+8,"Thunnus_thynnus-21",600147,2017,600.038253421191,0.46317715617716,0,NA
+8,"Ocyurus_chrysurus-21",600188,2017,6.31755001199949e-08,0.501895147719719,1,"Median gapfilled"
+8,"Makaira_nigricans-21",600216,2017,1.35360734952999,0.499454545454547,0,NA
+8,"Kajikia_albida-21",600219,2017,2.39392510224614,0.431393939393939,0,NA
+8,"Tetrapturus_pfluegeri-21",600220,2017,0.000223278910536082,0.501895147719719,1,"Median gapfilled"
+8,"Xiphias_gladius-21",600226,2017,1238.49382811299,0.91873426573426,0,NA
+8,"Alepocephalus_bairdii-21",600230,2017,5.52009445673395,0.501895147719719,1,"Median gapfilled"
+8,"Salmo_salar-21",600236,2017,6038.66595850033,0.501895147719719,1,"Median gapfilled"
+8,"Salvelinus_alpinus_alpinus-21",600247,2017,275.980612849611,0.501895147719719,1,"Median gapfilled"
+8,"Mallotus_villosus-21",600252,2017,48021.086326908,0.501895147719719,1,"Median gapfilled"
+8,"Osmerus_mordax_mordax-21",600253,2017,1086.46450477041,0.501895147719719,1,"Median gapfilled"
+8,"Anguilla_rostrata-21",600296,2017,539.088313215299,0.472604433600554,0,NA
+8,"Gadus_ogac-21",600309,2017,141.071578549525,0.501895147719719,1,"Median gapfilled"
+8,"Urophycis_chuss-21",600312,2017,673.726415762832,0.501895147719719,1,"Median gapfilled"
+8,"Urophycis_tenuis-21",600313,2017,9951.46198298233,0.764590347923658,0,NA
+8,"Microgadus_tomcod-21",600316,2017,62.254401240447,0.501895147719719,1,"Median gapfilled"
+8,"Merluccius_bilinearis-21",600323,2017,28037.3973432768,0.28771186440678,0,NA
+8,"Macrourus_berglax-21",600331,2017,1418.79878408344,0.324666281653455,0,NA
+8,"Coryphaenoides_rupestris-21",600332,2017,1357.66917931563,0.38732153141532,0,NA
+8,"Zenopsis_conchifer-21",600336,2017,0.915116108880366,0.501895147719719,1,"Median gapfilled"
+8,"Menidia_menidia-21",600339,2017,241.912795070961,0.501895147719719,1,"Median gapfilled"
+8,"Polyprion_americanus-21",600349,2017,0.578286559780318,0.501895147719719,1,"Median gapfilled"
+8,"Morone_saxatilis-21",600353,2017,1250.76480419942,1,0,NA
+8,"Morone_americana-21",600355,2017,1.63491232848467,0.949039260394765,0,NA
+8,"Centropristis_striata-21",600361,2017,0.0143638604256243,0.501895147719719,1,"Median gapfilled"
+8,"Lopholatilus_chamaeleonticeps-21",600362,2017,21.8812663430452,0.501509222966513,0,NA
+8,"Pomatomus_saltatrix-21",600364,2017,11.189401434764,0.8767842085016,0,NA
+8,"Trachurus_lathami-21",600369,2017,0.000192842896790202,0.501895147719719,1,"Median gapfilled"
+8,"Selar_crumenophthalmus-21",600387,2017,2.4831393790771e-05,0.501895147719719,1,"Median gapfilled"
+8,"Cynoscion_regalis-21",600406,2017,1.23396574952244,0.015,0,NA
+8,"Pogonias_cromis-21",600425,2017,0.313491285158515,0.501895147719719,1,"Median gapfilled"
+8,"Archosargus_probatocephalus-21",600441,2017,0.0665335939508671,0.501895147719719,1,"Median gapfilled"
+8,"Stenotomus_chrysops-21",600452,2017,14.8315000520272,0.96757389543693,0,NA
+8,"Tautoga_onitis-21",600458,2017,0.0229944830928832,0.456950533270468,0,NA
+8,"Zoarces_americanus-21",600480,2017,377.038430315005,0.440150770632767,0,NA
+8,"Peprilus_triacanthus-21",600492,2017,182.337832009454,0.8403881515421,0,NA
+8,"Sebastes_norvegicus-21",600501,2017,430.616895117387,0.501895147719719,1,"Median gapfilled"
+8,"Sebastes_mentella-21",600505,2017,1126.98781339708,0.403426308090332,0,NA
+8,"Reinhardtius_hippoglossoides-21",600516,2017,31386.3200742665,0.97005905179937,0,NA
+8,"Limanda_ferruginea-21",600521,2017,11632.6265802818,0.645000526356955,0,NA
+8,"Pseudopleuronectes_americanus-21",600524,2017,2742.79059022013,0.493472008217772,0,NA
+8,"Scophthalmus_aquosus-21",600530,2017,9.42010017856545,0.015,0,NA
+8,"Lophius_americanus-21",600532,2017,1567.05240129448,0.408558381914127,0,NA
+8,"Aphanopus_carbo-21",600646,2017,8.58996629192351,0.501895147719719,1,"Median gapfilled"
+8,"Centroscyllium_fabricii-21",600656,2017,822.804819773294,0.501895147719719,1,"Median gapfilled"
+8,"Centroscymnus_coelolepis-21",600662,2017,0.698535836431532,0.501895147719719,1,"Median gapfilled"
+8,"Carcharias_taurus-21",600747,2017,0.0864264310676626,0.501895147719719,1,"Median gapfilled"
+8,"Carcharodon_carcharias-21",600751,2017,0.0129517278031629,0.501895147719719,1,"Median gapfilled"
+8,"Isurus_oxyrinchus-21",600752,2017,139.349751583149,0.501895147719719,1,"Median gapfilled"
+8,"Isurus_paucus-21",600753,2017,0.902145598911643,0.501895147719719,1,"Median gapfilled"
+8,"Mugil_cephalus-21",600785,2017,0.381591422109667,0.501895147719719,1,"Median gapfilled"
+8,"Carcharhinus_longimanus-21",600875,2017,0.239541692726492,0.501895147719719,1,"Median gapfilled"
+8,"Carcharhinus_obscurus-21",600878,2017,0.017486980214588,0.501895147719719,1,"Median gapfilled"
+8,"Carcharhinus_plumbeus-21",600880,2017,0.132600793120838,0.501895147719719,1,"Median gapfilled"
+8,"Galeocerdo_cuvier-21",600886,2017,0.526160232640598,0.501895147719719,1,"Median gapfilled"
+8,"Prionace_glauca-21",600898,2017,1781.03294230317,1,0,NA
+8,"Rhizoprionodon_terraenovae-21",600905,2017,0.000128214850831536,0.501895147719719,1,"Median gapfilled"
+8,"Sphyrna_lewini-21",600912,2017,0.515401027806826,0.501895147719719,1,"Median gapfilled"
+8,"Sphyrna_mokarran-21",600914,2017,9.49749829759582e-05,0.501895147719719,1,"Median gapfilled"
+8,"Sphyrna_zygaena-21",600917,2017,0.0343196251966465,0.501895147719719,1,"Median gapfilled"
+8,"Naucrates_ductor-21",600998,2017,0.000569920811958431,0.501895147719719,1,"Median gapfilled"
+8,"Selene_vomer-21",601004,2017,5.62846525836283e-05,0.501895147719719,1,"Median gapfilled"
+8,"Seriola_dumerili-21",601005,2017,0.331228753382411,0.501895147719719,1,"Median gapfilled"
+8,"Ruvettus_pretiosus-21",601044,2017,0.990142431055432,0.501895147719719,1,"Median gapfilled"
+8,"Lampris_guttatus-21",601072,2017,0.00105292827449359,0.501895147719719,1,"Median gapfilled"
+8,"Lophius_gastrophysus-21",601078,2017,0.000446393523637569,0.501895147719719,1,"Median gapfilled"
+8,"Megalops_atlanticus-21",601079,2017,0.000666078473901204,0.501895147719719,1,"Median gapfilled"
+8,"Scomberesox_saurus_saurus-21",601084,2017,5.91550520801943e-06,0.501895147719719,1,"Median gapfilled"
+8,"Anchoa_hepsetus-21",601133,2017,2.23443014536242e-10,0.501895147719719,1,"Median gapfilled"
+8,"Sphoeroides_maculatus-21",601181,2017,0.00349885847498262,0.501895147719719,1,"Median gapfilled"
+8,"Sciaenops_ocellatus-21",601191,2017,0.00108067855394121,0.501895147719719,1,"Median gapfilled"
+8,"Mycteroperca_phenax-21",601213,2017,0.00403218875879965,0.501895147719719,1,"Median gapfilled"
+8,"Calamus_bajonado-21",601221,2017,0.0144005141905142,0.501895147719719,1,"Median gapfilled"
+8,"Sphyraena_barracuda-21",601235,2017,41.5445278889047,0.501895147719719,1,"Median gapfilled"
+8,"Sphyraena_guachancho-21",601236,2017,3.8181564715488e-07,0.501895147719719,1,"Median gapfilled"
+8,"Trichiurus_lepturus-21",601288,2017,0.00220829776723825,0.501895147719719,1,"Median gapfilled"
+8,"Paralichthys_dentatus-21",601338,2017,12.6937951692805,0.86135269566368,0,NA
+8,"Pollachius_virens-21",601343,2017,21187.7688007249,0.25,0,NA
+8,"Hippoglossus_hippoglossus-21",601371,2017,3309.51376138907,0.0386661807580149,0,NA
+8,"Melanogrammus_aeglefinus-21",601381,2017,26464.3575889688,0.015,0,NA
+8,"Molva_dypterygia-21",601383,2017,0.0979395541231854,0.501895147719719,1,"Median gapfilled"
+8,"Lutjanus_campechanus-21",601423,2017,2.03521135246153e-05,0.501895147719719,1,"Median gapfilled"
+8,"Etrumeus_sadina-21",601455,2017,8.38171908515921e-05,0.501895147719719,1,"Median gapfilled"
+8,"Alosa_aestivalis-21",601574,2017,2.24763367239392,0.501895147719719,1,"Median gapfilled"
+8,"Alosa_mediocris-21",601582,2017,0.0429937285023005,0.501895147719719,1,"Median gapfilled"
+8,"Alosa_pseudoharengus-21",601583,2017,6101.22301939755,0.501895147719719,1,"Median gapfilled"
+8,"Alosa_sapidissima-21",601584,2017,77.4841663631569,0.409013841676351,0,NA
+8,"Brevoortia_tyrannus-21",601592,2017,0.793411900956221,0.501895147719719,1,"Median gapfilled"
+8,"Dorosoma_cepedianum-21",601604,2017,0.195035760622686,0.501895147719719,1,"Median gapfilled"
+8,"Enchelyopus_cimbrius-21",601874,2017,5.03889968032711,0.501895147719719,1,"Median gapfilled"
+8,"Caranx_crysos-21",601933,2017,0.00112868905925637,0.501895147719719,1,"Median gapfilled"
+8,"Antimora_rostrata-21",602005,2017,3.99216780185118,0.501895147719719,1,"Median gapfilled"
+8,"Anarhichas_lupus-21",602501,2017,430.083909924154,0.390600306417746,0,NA
+8,"Petromyzon_marinus-21",602530,2017,3.86104575389364e-05,0.501895147719719,1,"Median gapfilled"
+8,"Ginglymostoma_cirratum-21",602532,2017,3.73835255945344e-05,0.501895147719719,1,"Median gapfilled"
+8,"Alopias_superciliosus-21",602534,2017,0.000649629914799036,0.501895147719719,1,"Median gapfilled"
+8,"Alopias_vulpinus-21",602535,2017,0.376441906324735,0.501895147719719,1,"Median gapfilled"
+8,"Leucoraja_erinacea-21",602557,2017,398.385639920541,0.501895147719719,1,"Median gapfilled"
+8,"Dipturus_laevis-21",602561,2017,0.00576787786928979,0.501895147719719,1,"Median gapfilled"
+8,"Dasyatis_centroura-21",602572,2017,0.00103017916810238,0.501895147719719,1,"Median gapfilled"
+8,"Tautogolabrus_adspersus-21",603672,2017,313.011667747019,0.501895147719719,1,"Median gapfilled"
+8,"Anarhichas_denticulatus-21",603810,2017,16.4792289544745,0.501895147719719,1,"Median gapfilled"
+8,"Anarhichas_minor-21",603811,2017,3.63890086409976,0.501895147719719,1,"Median gapfilled"
+8,"Hippoglossoides_platessoides-21",604239,2017,35165.5266602413,0.952715627851525,0,NA
+8,"Hoplostethus_mediterraneus_mediterraneus-21",604964,2017,0.139124169924335,0.501895147719719,1,"Median gapfilled"
+8,"Balistes_capriscus-21",607327,2017,0.0563932353119249,0.501895147719719,1,"Median gapfilled"
+8,"Gaidropsarus_ensis-21",608425,2017,6.20201150872414,0.501895147719719,1,"Median gapfilled"
+8,"Pandalus_montagui-21",690003,2017,203.590610402696,0.501895147719719,1,"Median gapfilled"
+8,"Crassostrea_virginica-21",690009,2017,2402.63443098789,0.501895147719719,1,"Median gapfilled"
+8,"Homarus_americanus-21",690010,2017,53592.6771164501,0.810714285714283,0,NA
+8,"Placopecten_magellanicus-21",690011,2017,63415.3574544971,0.883256792958285,0,NA
+8,"Ensis_directus-21",690029,2017,0.572828820639559,0.501895147719719,1,"Median gapfilled"
+8,"Argopecten_irradians-21",690030,2017,16.0535373210903,0.501895147719719,1,"Median gapfilled"
+8,"Cancer_irroratus-21",690031,2017,4452.20919321463,0.882793466192055,0,NA
+8,"Spisula_solidissima-21",690033,2017,1027.18759450977,0.862137156888525,0,NA
+8,"Callinectes_sapidus-21",690052,2017,102.649268410566,0.554395649673438,0,NA
+8,"Carcinus_maenas-21",690158,2017,0.188766451906458,0.501895147719719,1,"Median gapfilled"
+8,"Chlamys_islandica-21",690185,2017,2383.06913877121,0.32280906736409,0,NA
+8,"Cancer_borealis-21",690203,2017,36.2845454071824,0.94787948562031,0,NA
+8,"Doryteuthis_pealeii-21",690227,2017,58.6769882945452,1,0,NA
+8,"Pandalus_borealis-21",690269,2017,83082.2861561571,0.923120789137821,0,NA
+8,"Mercenaria_mercenaria-21",690270,2017,1156.06084216974,0.501895147719719,1,"Median gapfilled"
+8,"Illex_illecebrosus-21",690271,2017,4361.5116593413,0.484992820740702,0,NA
+8,"Arctica_islandica-21",690275,2017,528.394014759774,0.501895147719719,1,"Median gapfilled"
+8,"Chionoecetes_opilio-21",690313,2017,67288.1442027959,0.9759118836198,0,NA
+8,"Mactromeris_polynyma-21",690398,2017,20948.6202438166,0.501895147719719,1,"Median gapfilled"
+8,"Buccinum_undatum-21",690434,2017,481.781862919387,0.501895147719719,1,"Median gapfilled"
+8,"Strongylocentrotus_droebachiensis-21",690494,2017,1577.22684719123,0.922089365066365,0,NA
+8,"Marine_fishes_not_identified-67",100039,2017,135699.261722427,0.0501895147719719,1,"Median gapfilled"
+8,"Miscellaneous_marine_crustaceans-67",100047,2017,0.205673007971086,0.0501895147719719,1,"Median gapfilled"
+8,"Miscellaneous_aquatic_invertebrates-67",100077,2017,112.827955931345,0.0501895147719719,1,"Median gapfilled"
+8,"Marine_finfishes_not_identified-67",100139,2017,1.04660765626714,0.0501895147719719,1,"Median gapfilled"
+8,"Marine_groundfishes_not_identified-67",100239,2017,13488.7631545202,0.0501895147719719,1,"Median gapfilled"
+8,"Marine_pelagic_fishes_not_identified-67",100339,2017,9.16475513263814,0.0501895147719719,1,"Median gapfilled"
+8,"Mollusca-67",190195,2017,1540.62226273144,0.0501895147719719,1,"Median gapfilled"
+8,"Elasmobranchii-67",200004,2017,0.263230161653587,0.12547378692993,1,"Median gapfilled"
+8,"Chondrichthyes-67",200538,2017,0.0110195027846795,0.12547378692993,1,"Median gapfilled"
+8,"Cephalopoda-67",290002,2017,0.0899506770299618,0.12547378692993,1,"Median gapfilled"
+8,"Bivalvia-67",290004,2017,1011.5879686071,0.12547378692993,1,"Median gapfilled"
+8,"Scyphozoa-67",290013,2017,0.172699530185729,0.12547378692993,1,"Median gapfilled"
+8,"Malacostraca-67",290022,2017,7.78942135382553,0.12547378692993,1,"Median gapfilled"
+8,"Rajiformes-67",300014,2017,6.57826215573793,0.250947573859859,1,"Median gapfilled"
+8,"Clupeiformes-67",300028,2017,0.00398609314064838,0.250947573859859,1,"Median gapfilled"
+8,"Gadiformes-67",300044,2017,0.565116987378446,0.250947573859859,1,"Median gapfilled"
+8,"Scorpaeniformes-67",300059,2017,0.229124189999771,0.250947573859859,1,"Median gapfilled"
+8,"Perciformes-67",300060,2017,0.0515761367160312,0.250947573859859,1,"Median gapfilled"
+8,"Pleuronectiformes-67",300061,2017,5935.3525436123,0.250947573859859,1,"Median gapfilled"
+8,"Teuthida-67",390002,2017,2.25700899253915,0.250947573859859,1,"Median gapfilled"
+8,"Octopoda-67",390007,2017,0.000101627273435407,0.250947573859859,1,"Median gapfilled"
+8,"Decapoda-67",390013,2017,3863.00407518847,0.250947573859859,1,"Median gapfilled"
+8,"Lamnidae-67",400009,2017,6.18436155267403e-06,0.401516118175775,1,"Median gapfilled"
+8,"Rajidae-67",400019,2017,1080.58693680696,0.401516118175775,1,"Median gapfilled"
+8,"Clupeidae-67",400043,2017,883.251779700738,0.401516118175775,1,"Median gapfilled"
+8,"Salmonidae-67",400076,2017,0.200809566370651,0.401516118175775,1,"Median gapfilled"
+8,"Osmeridae-67",400080,2017,29.0717701319674,0.401516118175775,1,"Median gapfilled"
+8,"Gadidae-67",400183,2017,0.007239682414233,0.401516118175775,1,"Median gapfilled"
+8,"Hexagrammidae-67",400271,2017,0.0596600712936542,0.401516118175775,1,"Median gapfilled"
+8,"Cottidae-67",400277,2017,1.1258369779845,0.401516118175775,1,"Median gapfilled"
+8,"Carangidae-67",400314,2017,0.000627990688534724,0.401516118175775,1,"Median gapfilled"
+8,"Ammodytidae-67",400402,2017,7.61056596626703e-05,0.401516118175775,1,"Median gapfilled"
+8,"Scombridae-67",400416,2017,354.500455237831,0.401516118175775,1,"Median gapfilled"
+8,"Pleuronectidae-67",400440,2017,1.96744131719382,0.401516118175775,1,"Median gapfilled"
+8,"Engraulidae-67",400454,2017,2.06682919268273e-05,0.401516118175775,1,"Median gapfilled"
+8,"Triakidae-67",400488,2017,2.94364852343598e-05,0.401516118175775,1,"Median gapfilled"
+8,"Sebastidae-67",400573,2017,8458.22134442906,0.401516118175775,1,"Median gapfilled"
+8,"Octopodidae-67",490012,2017,3.30779765615185,0.401516118175775,1,"Median gapfilled"
+8,"Lithodidae-67",490036,2017,0.446615864332157,0.401516118175775,1,"Median gapfilled"
+8,"Penaeidae-67",490043,2017,0.0376611004873874,0.401516118175775,1,"Median gapfilled"
+8,"Pandalidae-67",490046,2017,0.660599119254831,0.401516118175775,1,"Median gapfilled"
+8,"Cardiidae-67",490058,2017,0.0408578866589623,0.401516118175775,1,"Median gapfilled"
+8,"Veneridae-67",490060,2017,41.1149698965146,0.401516118175775,1,"Median gapfilled"
+8,"Solenidae-67",490061,2017,0.00472004551787566,0.401516118175775,1,"Median gapfilled"
+8,"Brachyura-67",490097,2017,1238.22535804376,0.401516118175775,1,"Median gapfilled"
+8,"Ostreidae-67",490143,2017,1869.53439660791,0.401516118175775,1,"Median gapfilled"
+8,"Raja-67",500108,2017,119.669642104761,0.451705632947747,1,"Median gapfilled"
+8,"Ammodytes-67",500124,2017,0.000595435230583846,0.451705632947747,1,"Median gapfilled"
+8,"Isurus-67",500638,2017,0.00067439011443151,0.451705632947747,1,"Median gapfilled"
+8,"Myoxocephalus-67",500717,2017,0.00292934017674445,0.451705632947747,1,"Median gapfilled"
+8,"Sebastes-67",501135,2017,4.40238780965425,0.451705632947747,1,"Median gapfilled"
+8,"Porichthys-67",502224,2017,8.08076766333581e-06,0.451705632947747,1,"Median gapfilled"
+8,"Oncorhynchus-67",502724,2017,0.388268791653508,0.451705632947747,1,"Median gapfilled"
+8,"Coregonus-67",506253,2017,0.000371201543957409,0.451705632947747,1,"Median gapfilled"
+8,"Loligo-67",590010,2017,0.000395084623085834,0.451705632947747,1,"Median gapfilled"
+8,"Crassostrea-67",590014,2017,0.000872709701425071,0.451705632947747,1,"Median gapfilled"
+8,"Haliotis-67",590046,2017,38.6923156511848,0.451705632947747,1,"Median gapfilled"
+8,"Chionoecetes-67",590065,2017,24.2215116134466,0.451705632947747,1,"Median gapfilled"
+8,"Pandalus-67",590093,2017,0.0750792147113102,0.451705632947747,1,"Median gapfilled"
+8,"Ostrea-67",590112,2017,0.0256242565222565,0.451705632947747,1,"Median gapfilled"
+8,"Strongylocentrotus-67",590158,2017,0.247971035145207,0.451705632947747,1,"Median gapfilled"
+8,"Tresus-67",590269,2017,57.2029902374089,0.451705632947747,1,"Median gapfilled"
+8,"Katsuwonus_pelamis-67",600107,2017,0.0123366490992374,0.501895147719719,1,"Median gapfilled"
+8,"Scomber_japonicus-67",600117,2017,1.54274467255163,0.824548540044944,0,NA
+8,"Oncorhynchus_mykiss-67",600239,2017,54.3523756226042,0.501895147719719,1,"Median gapfilled"
+8,"Oncorhynchus_gorbuscha-67",600240,2017,27224.7568934929,0.690220396199869,0,NA
+8,"Oncorhynchus_keta-67",600241,2017,19733.2154195789,0.51509847143082,0,NA
+8,"Oncorhynchus_nerka-67",600243,2017,29234.0736162809,0.502281072472925,0,NA
+8,"Oncorhynchus_tshawytscha-67",600244,2017,9275.13977170262,0.457562865598085,0,NA
+8,"Oncorhynchus_kisutch-67",600245,2017,10332.8064686078,0.501895147719719,1,"Median gapfilled"
+8,"Mallotus_villosus-67",600252,2017,0.00317023620278852,0.501895147719719,1,"Median gapfilled"
+8,"Hypomesus_pretiosus-67",600255,2017,2.67912634916427,0.501895147719719,1,"Median gapfilled"
+8,"Thaleichthys_pacificus-67",600256,2017,27.8570371641807,0.501895147719719,1,"Median gapfilled"
+8,"Cololabis_saira-67",600303,2017,0.275141563091,0.501895147719719,1,"Median gapfilled"
+8,"Gadus_macrocephalus-67",600308,2017,3811.49625745274,0.782877772066236,0,NA
+8,"Theragra_chalcogramma-67",600318,2017,5029.32690419976,0.975972104818265,0,NA
+8,"Trachurus_symmetricus-67",600368,2017,1.16335066322395,0.501895147719719,1,"Median gapfilled"
+8,"Sebastes_entomelas-67",600502,2017,36.3175431401722,0.322372681271716,0,NA
+8,"Sebastes_flavidus-67",600503,2017,1.33888313008663,0.444798164721058,0,NA
+8,"Sebastes_alutus-67",600504,2017,6337.66431077234,0.744621778787695,0,NA
+8,"Ophiodon_elongatus-67",600509,2017,6107.47067814838,0.452076765748172,0,NA
+8,"Anoplopoma_fimbria-67",600512,2017,3991.88538999208,0.896661432420794,0,NA
+8,"Hippoglossus_stenolepis-67",600514,2017,9984.08639356215,0.797356088352035,0,NA
+8,"Reinhardtius_hippoglossoides-67",600516,2017,1.52562535095833,0.439053348575395,0,NA
+8,"Atheresthes_stomias-67",600517,2017,592.217869956904,0.25,0,NA
+8,"Atheresthes_evermanni-67",600518,2017,0.0227344643103377,0.501895147719719,1,"Median gapfilled"
+8,"Hippoglossoides_elassodon-67",600519,2017,10.7929729888881,1,0,NA
+8,"Limanda_aspera-67",600520,2017,110.858429394212,0.9583371615271,0,NA
+8,"Isurus_oxyrinchus-67",600752,2017,3.13310186587465e-05,0.501895147719719,1,"Median gapfilled"
+8,"Prionace_glauca-67",600898,2017,0.0541598951281216,0.501895147719719,1,"Median gapfilled"
+8,"Sardinops_sagax-67",601477,2017,242.248201069659,0.668713210556762,0,NA
+8,"Clupea_pallasii_pallasii-67",601520,2017,26808.4459440932,0.501895147719719,1,"Median gapfilled"
+8,"Alosa_sapidissima-67",601584,2017,1.28530714249528,0.501895147719719,1,"Median gapfilled"
+8,"Engraulis_mordax-67",601664,2017,1.5797523544734,0.501895147719719,1,"Median gapfilled"
+8,"Mola_mola-67",601732,2017,0.00103490249273326,0.501895147719719,1,"Median gapfilled"
+8,"Microgadus_proximus-67",601879,2017,0.0508049733052673,0.501895147719719,1,"Median gapfilled"
+8,"Alopias_vulpinus-67",602535,2017,0.0154010023859512,0.501895147719719,1,"Median gapfilled"
+8,"Somniosus_pacificus-67",602544,2017,0.00101289622833349,0.501895147719719,1,"Median gapfilled"
+8,"Raja_stellulata-67",602570,2017,7.5548518037837e-06,0.501895147719719,1,"Median gapfilled"
+8,"Hydrolagus_colliei-67",602589,2017,0.0971368296750855,0.501895147719719,1,"Median gapfilled"
+8,"Coregonus_pidschian-67",602676,2017,0.0546437217753637,0.501895147719719,1,"Median gapfilled"
+8,"Coregonus_sardinella-67",602678,2017,0.00020933251948502,0.501895147719719,1,"Median gapfilled"
+8,"Salvelinus_malma_malma-67",602691,2017,0.0194476554821008,0.501895147719719,1,"Median gapfilled"
+8,"Atractoscion_nobilis-67",603578,2017,0.0231329835247738,0.501895147719719,1,"Median gapfilled"
+8,"Sebastes_crameri-67",603962,2017,1.39169668643018,0.501895147719719,1,"Median gapfilled"
+8,"Sebastes_goodei-67",603971,2017,0.0507333168376761,0.501895147719719,1,"Median gapfilled"
+8,"Sebastes_melanops-67",603979,2017,0.600325795655366,0.501895147719719,1,"Median gapfilled"
+8,"Sebastes_paucispinis-67",603987,2017,0.00999559472902155,0.0651571500033175,0,NA
+8,"Sebastes_pinniger-67",603989,2017,0.0862442657275414,0.79435222445786,0,NA
+8,"Sebastolobus_alascanus-67",604009,2017,3.24841140231323,0.501895147719719,1,"Median gapfilled"
+8,"Pleurogrammus_monopterygius-67",604037,2017,66.7373046197978,0.479747726393054,0,NA
+8,"Scorpaenichthys_marmoratus-67",604140,2017,1.10465965268668,0.501895147719719,1,"Median gapfilled"
+8,"Citharichthys_sordidus-67",604215,2017,4.46347476941949,0.501895147719719,1,"Median gapfilled"
+8,"Eopsetta_jordani-67",604237,2017,1.53309904644726,0.501895147719719,1,"Median gapfilled"
+8,"Glyptocephalus_zachirus-67",604238,2017,2.23970365254742,0.984428656612225,0,NA
+8,"Microstomus_pacificus-67",604247,2017,149.093513363886,0.41549299540155,0,NA
+8,"Parophrys_vetulus-67",604248,2017,0.858796056010767,0.501895147719719,1,"Median gapfilled"
+8,"Platichthys_stellatus-67",604249,2017,0.380506400858383,0.501895147719719,1,"Median gapfilled"
+8,"Pleuronectes_quadrituberculatus-67",604250,2017,10.4576719831851,0.501895147719719,1,"Median gapfilled"
+8,"Pleuronichthys_decurrens-67",604252,2017,0.0252718146728925,0.501895147719719,1,"Median gapfilled"
+8,"Psettichthys_melanostictus-67",604255,2017,3.94928757086347,0.501895147719719,1,"Median gapfilled"
+8,"Galeorhinus_galeus-67",604642,2017,0.000626152499121986,0.501895147719719,1,"Median gapfilled"
+8,"Sarda_chiliensis_lineolata-67",604796,2017,0.000247617604948008,0.501895147719719,1,"Median gapfilled"
+8,"Thunnus_orientalis-67",614290,2017,0.000743525932013682,0.293735431235426,0,NA
+8,"Lepidopsetta_bilineata-67",624237,2017,64.5336824476742,0.298935043309395,0,NA
+8,"Coregonus_laurettae-67",646941,2017,3.8971657437714e-07,0.501895147719719,1,"Median gapfilled"
+8,"Saxidomus_gigantea-67",690064,2017,1723.91428571429,0.369684272005794,0,NA
+8,"Metacarcinus_magister-67",690115,2017,3593.38672334092,0.925756618977045,0,NA
+8,"Crassostrea_gigas-67",690283,2017,373.33947566972,0.9210072548581,0,NA
+8,"Panopea_abrupta-67",690284,2017,3805.37529109558,0.501895147719719,1,"Median gapfilled"
+8,"Leukoma_staminea-67",690285,2017,0.414466347886863,0.501895147719719,1,"Median gapfilled"
+8,"Siliqua_patula-67",690286,2017,0.00620873240009645,0.501895147719719,1,"Median gapfilled"
+8,"Cancer_productus-67",690287,2017,0.971143376160208,0.501895147719719,1,"Median gapfilled"
+8,"Mya_arenaria-67",690337,2017,3.04716635219013,0.501895147719719,1,"Median gapfilled"
+8,"Patinopecten_caurinus-67",690429,2017,2.10200529476192,0.501895147719719,1,"Median gapfilled"
+8,"Erimacrus_isenbeckii-67",690608,2017,0.000478344730794552,0.501895147719719,1,"Median gapfilled"
+8,"Paralithodes_camtschaticus-67",690621,2017,14.4523649028145,0.501895147719719,1,"Median gapfilled"
+8,"Clinocardium_nuttallii-67",690651,2017,1.53845666767092,0.501895147719719,1,"Median gapfilled"
+8,"Doryteuthis_opalescens-67",690658,2017,0.215221451999589,0.501895147719719,1,"Median gapfilled"
+8,"Pandalus_jordani-67",690660,2017,3.24537532754591,0.893925767406305,0,NA
+8,"Upogebia_pugettensis-67",690665,2017,0.149985829355002,0.501895147719719,1,"Median gapfilled"
+8,"Enteroctopus_dofleini-67",690891,2017,0.0214205973744733,0.501895147719719,1,"Median gapfilled"
